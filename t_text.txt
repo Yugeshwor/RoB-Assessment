@@ -1,0 +1,456 @@
+
+--- Page 1 ---
+ARTHRITIS & RHEUMATISM
+Vol. 50, No. 5, May 2004, pp 1501–1510
+DOI 10.1002/art.20256
+© 2004, American College of Rheumatology
+Exercise and Dietary Weight Loss in Overweight and Obese
+Older Adults With Knee Osteoarthritis
+The Arthritis, Diet, and Activity Promotion Trial
+Stephen P. Messier, Richard F. Loeser, Gary D. Miller, Timothy M. Morgan, W. Jack Rejeski,
+Mary Ann Sevick, Walter H. Ettinger, Jr., Marco Pahor, and Jeff D. Williamson
+Objective. The Arthritis, Diet, and Activity Pro-
+motion Trial (ADAPT) was a randomized, single-blindclinical trial lasting 18 months that was designed todetermine whether long-term exercise and dietaryweight loss are more effective, either separately or incombination, than usual care in improving physicalfunction, pain, and mobility in older overweight andobese adults with knee osteoarthritis (OA).
+Methods. Three hundred sixteen community-
+dwelling overweight and obese adults ages 60 years andolder, with a body mass index of >28 kg/m
+2, knee pain,
+radiographic evidence of knee OA, and self-reported
+physical disability, were randomized into healthy life-style (control), diet only, exercise only, and diet plusexercise groups. The primary outcome was self-reportedphysical function as measured with the Western Ontarioand McMaster Universities Osteoarthritis Index(WOMAC). Secondary outcomes included weight loss,6-minute walk distance, stair-climb time, WOMAC painand stiffness scores, and joint space width.
+Results. Of the 316 randomized participants, 252
+(80%) completed the study. Adherence was as follows:for healthy lifestyle, 73%; for diet only, 72%; for exerciseonly, 60%; and for diet plus exercise, 64%. In the diet
+plus exercise group, significant improvements in self-reported physical function ( P< 0.05), 6-minute walk
+distance ( P< 0.05), stair-climb time ( P< 0.05), and
+knee pain ( P< 0.05) relative to the healthy lifestyle
+group were observed. In the exercise group, a significantimprovement in the 6-minute walk distance ( P< 0.05)
+was observed. The diet-only group was not significantlydifferent from the healthy lifestyle group for any of thefunctional or mobility measures. The weight-loss groupslost significantly ( P< 0.05) more body weight (for diet,
+4.9%; for diet plus exercise, 5.7%) than did the healthylifestyle group (1.2%). Finally, changes in joint spacewidth were not different between the groups.
+Conclusion. The combination of modest weight
+loss plus moderate exercise provides better overallimprovements in self-reported measures of function andpain and in performance measures of mobility in olderoverweight and obese adults with knee OA compared
+with either intervention alone.
+Arthritis is the leading cause of physical disability
+among older adults, affecting more than 70 millionAmericans, of whom the majority are women (1–4). Thejoint damage and chronic pain from osteoarthritis (OA),the most common form of arthritis, lead to muscleatrophy, decreased mobility, poor balance, and, eventu-ally, physical disability (5–8). Traditional therapies in-clude pharmacologic, surgical, and exercise interven-tions. Pharmacologic therapy includes the use ofantiinflammatory medications that have potentially seri-ous long-term side effects (9,10). Recent evidence alsocasts doubt as to the effectiveness of arthroscopic sur-
+gery for adults with mild to moderate knee OA (11).
+Supported by NIH grants 5P60-AG-10484-07 and M01-RR-
+00211.
+Stephen P. Messier, PhD, Richard F. Loeser, MD, Gary D.
+Miller, RD, PhD, Timothy M. Morgan, PhD, W. Jack Rejeski, PhD,Mary Ann Sevick, ScD, RN, Walter H. Ettinger, Jr., MD, MBA, MarcoPahor, MD, Jeff D. Williamson, MD, MPH: Claude D. Pepper OlderAmericans Independence Center, Wake Forest University, Winston-Salem, North Carolina.
+Address correspondence and reprint requests to Stephen P.
+Messier, PhD, J. B. Snow Biomechanics Laboratory, Department ofHealth & Exercise Science, Wake Forest University, Winston-Salem,NC 27109. E-mail: messier@wfu.edu.
+Submitted for publication January 22, 2003; accepted in
+revised form February 20, 2004.
+1501
+
+--- Page 2 ---
+Consequently, the need for a safe and effective treat-
+ment for knee OA has never been more evident.
+Previous clinical exercise trials have demon-
+strated significant, yet modest, improvements in functionand pain in older adults with knee OA (12–18). There isalso evidence that obesity is strongly associated withknee OA (19–27) and that weight loss may prevent theonset of this degenerative joint disease (28). Accord-ingly, both the American College of Rheumatology(ACR) and the European League Against Rheumatism(EULAR) recommend weight loss and exercise forobese patients with knee OA (29,30).
+A nonrandomized trial conducted by Toda (31)
+demonstrated greater short-term (8-week) benefits ofdiet plus exercise compared with diet alone. Preliminarydata from our laboratory suggest that a combined exer-cise and dietary weight loss approach may indeed beeffective in improving clinical outcomes for older adultswith OA (32). In addition, Huang and colleagues (33)reported that interventions that included diet and exer-cise improved weight loss, disability, and walking speedcompared with pain therapy alone. Whereas these stud-ies lend support to the efficacy of exercise and dietaryweight loss in improving function in persons with kneeOA, the lack of control groups, full factorial designs,
+short intervention periods, and small sample sizes limitthe generalizability of these results. Interestingly, resultsfrom our current study suggest that the combination ofdiet and exercise is superior to either treatment alone inimproving self-reported physical health measures ofquality of life (34).
+We present data from the Arthritis, Diet, and
+Activity Promotion Trial (ADAPT), which examined theeffects of exercise and weight loss interventions, bothseparately and in combination, on self-reported physicalfunction in overweight and obese older adults with kneeOA. Moreover, we examined the effects of these inter-ventions on the secondary outcome measures of weightloss, pain, mobility, and joint space narrowing.
+PATIENTS AND METHODS
+Design. ADAPT was a single-blind, randomized, con-
+trolled clinical trial of older overweight and obese adults withknee OA. It was designed to compare the effects of assignmentto 4 distinct 18-month interventions: exercise only, dietary
+weight loss only, dietary weight loss plus exercise, and usual
+care healthy lifestyle (control). The study was conducted at theClaude D. Pepper Older Americans Independence Center ofWake Forest University, with the approval of the university’sinstitutional review board.Patients. The eligibility criteria for participation in the
+study were as follows: 1) age /H1135060 years; 2) calculated body
+mass index /H1135028 kg/m
+2; 3) knee pain on most days of the
+month; 4) sedentary activity pattern with /H1102120 minutes of
+formal exercise once weekly for the past 6 months; 5) self-
+reported difficulty in at least one of the following activitiesascribed to knee pain: walking one-quarter of a mile (3–4 city
+blocks), climbing stairs, bending, stooping, kneeling (e.g., topick up clothes), shopping, house cleaning or other self-careactivities, getting in and out of bed, standing up from a chair,lifting and carrying groceries, or getting in and out of thebathtub; 6) radiographic evidence of grade I–III tibiofemoral
+or patellofemoral OA based on weight-bearing anteroposterior
+and sunrise view radiographs (35); and 7) willingness toundergo testing and intervention procedures.
+Potential participants were excluded if they met any of
+the following criteria: 1) serious medical condition that pre-vented safe participation in an exercise program, includingsymptomatic heart or vascular disease (angina, peripheralvascular disease, congestive heart failure), severe hyperten-
+sion, recent stroke, chronic obstructive pulmonary disease,
+severe insulin-dependent diabetes mellitus, psychiatric disease,renal disease, liver disease, active cancer other than skincancer, and anemia; 2) a Mini-Mental State Examination scoreof/H1102124; 3) inability to finish the 18-month study or unlikely to
+be compliant; 4) inability to walk without a cane or otherassistive device; 5) participation in another research study; 6)reported alcohol consumption of /H1102214 drinks per week; 7) ST
+segment depression of at least 2 mm at an exercise level of 4
+METS or less, hypotension, or complex arrhythmias during agraded exercise test (36); 8) inability to complete the protocol,in the opinion of the clinical staff, because of frailty, illness, orother reasons.
+Recruitment of participants from the community oc-
+curred over an 18-month period. Techniques to identify eligi-ble participants included mass mailings to age-eligible personswithin the target area, targeted mailings to employees of the
+university and medical center, presentations to various groups
+of older adults, mass media advertisement, and placement ofposters (with pull-off reply cards attached) in strategic loca-tions. Moreover, strategies were developed to enhance recruit-ment among racial minorities, including ads and interviews onminority-run radio stations, newspaper ads in predominantlyAfrican American publications, letters to churches attendedmainly by minorities, and inserts in these church bulletins.
+Initial screening for major eligibility criteria was via telephone.
+Eligible contacts were invited to participate in a sequence of 2face-to-face baseline visits, during which they were screenedfor the above-noted eligibility and exclusion criteria.
+A variable-block randomization method was used to
+assign all eligible persons to 1 of the 4 intervention arms,stratified by race (white versus nonwhite). A list of randomassignments to the 4 groups was computer-generated withineach stratum, with blocks of 4, 8, and 12 chosen with equal
+probability. Once a subject met the eligibility criteria, a
+computer program displayed the next group assignment andlogged it into the database. Participants were instructed tocontinue use of all medications and other treatments asprescribed by their personal physicians, and participants werereferred to their personal physicians for all medical evaluationsand care during the trial.1502 MESSIER ET AL
+ 15290131, 2004, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/art.20256 by HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM, Wiley Online Library on [12/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+--- Page 3 ---
+Interventions. Exercise. The 3 days/week exercise pro-
+gram prescribed to each participant randomized to either theexercise-only or the diet plus exercise groups consisted of anaerobic phase (15 minutes), a resistance-training phase (15
+minutes), a second aerobic phase (15 minutes), and a cool-
+down phase (15 minutes). The first 4 months of the 18-monthintervention was facility based. At any time after the first 4months, participants who wished to exercise at home under-went a 2-month transition phase during which he or shealternated attendance between the facility and the home.Hence, some participants remained in a facility-based pro-gram, others opted for a home-based program, and some
+participants chose a combined facility–home-based program.
+Participants were provided with an aerobic exercise
+prescription that included walking within a heart rate range of50–75% of heart rate reserve. The resistance-training portionof the program consisted of 2 sets of 12 repetitions of thefollowing exercises: leg extension, leg curl, heel raise, andstep-up. Cuff weights and weighted vests were used to provideresistance. A 1–1.5-minute rest interval separated each exer-
+cise. Following 2 orientation sessions, participants began the
+exercise program using the lowest possible resistance. Resis-tance was increased after the participant performed 2 sets of 12repetitions for 2 consecutive days.
+For participants in the home-based program, weights
+were exchanged at the participant’s request or after a deter-mination was made during face-to-face or telephone contact toincrease the weights. Telephone contacts were made every
+other week during the first 2 months of home-based exercise,
+every third week during the following 2 months, and monthlythereafter. Exercise and attendance logs were used to gatherdata and monitor progress. Exercise adherence was defined asthe number of exercise sessions completed divided by the totalnumber of prescribed sessions. All medical questions regardingthe safety of exercise were referred to the participant’s per-sonal physician.
+Dietary weight loss. The goal of the dietary intervention
+was to produce and maintain an average weight loss of 5%
+during the 18-month intervention period. The weight loss goalwas based on results of the Trial of Nonpharmacologic Inter-ventions in the Elderly (37), in which obese, hypertensive,older adults were able to maintain a 5.4% decrease in bodyweight over 2.5 years.
+The dietary intervention was based on principles from
+the group dynamics literature (38) and social cognitive theory
+(39) and was divided into 3 phases: intensive (months 1–4),transition (months 5–6), and maintenance (months 7–18). Themajor emphasis of the intensive phase was to heighten aware-ness of the importance of and need for changing eating habitsin order to lower calorie intake. Behavior change was facili-tated using self-regulatory skills. These skills included self-monitoring, goal setting, cognitive restructuring, problem solv-ing, and environmental management. One introductory
+individual session was followed by 16 weekly sessions (3 group
+sessions and 1 individual session each month). Each groupsession included problem solving, the review of a specific topic,and tasting of several well-balanced, low-fat, nutritious foodsprepared with widely available ingredients. The individualsessions were used to review individual progress, solve prob-lems, answer questions, and set goals. Body weight was mea-sured weekly in both the diet-only and diet plus exercise groups
+and was recorded to the nearest 0.05 kg.
+The transition phase included sessions every other
+week for 8 weeks (3 group sessions and 1 individual session).The goals for this phase included assisting participants who
+had not reached their weight loss goals in establishing newgoals, and maintaining and preventing relapse in those partic-ipants who had reached their weight loss goals. The mainte-nance phase included monthly meetings and phone contacts,alternated every 2 weeks. Additionally, newsletters that pro-
+vided pertinent nutritional information and notice of upcom-
+ing meetings were mailed at regular intervals. The goals of themaintenance phase included assisting participants who hadreached their weight loss goals to maintain this weight loss, andproviding counseling for participants who had a difficult timelosing weight and adhering to the intervention. Adherence tothe intervention was based on attendance at scheduled sessionsand completion of the monthly assessment of weight.
+Dietary weight loss plus exercise. The dietary weight loss
+plus exercise intervention used both the exercise and dietaryweight loss programs described above. Contacts for the 2interventions were done consecutively on the same day and atthe same location.
+Healthy lifestyle. The healthy lifestyle control group
+served as a usual-care comparison group with the 3 interven-tion groups and was designed to provide attention, social
+interaction, and health education. The group met monthly for
+1 hour for the first 3 months. A health educator, who sched-uled videotaped presentations and physician talks on topicsconcerning OA, obesity, and exercise, organized the healthylifestyle program. Patients were advised to follow the ACR andEULAR recommendations for weight loss and exercise astreatments for OA (29,30). Question-and-answer sessions fol-lowed each presentation. Monthly phone contact was main-
+tained during months 4–6, followed by contact every other
+month during months 7–18. During phone contact, informa-tion on pain, medication use, illnesses, and hospitalization wasobtained.
+Measurements and procedures. Data collection visits
+occurred at baseline and at 6 and 18 months postrandomiza-tion. All staff involved in data collection were blinded to thetreatment assignment of the participants.
+Primary outcome measure. The primary outcome mea-
+sure was self-reported physical function as measured by theWestern Ontario and McMaster Universities OsteoarthritisIndex (WOMAC) (40,41). More specifically, the WOMACuses 17 questions concerning the degree of difficulty perform-ing activities of daily living (e.g., descending stairs) to assess aperson’s physical function. In the LK version of the WOMAC,the participant is asked to indicate on a scale from 0 (none) to4 (extreme) the degree of difficulty he/she has experienced inthe past 48 hours due to knee OA. The individual scores for
+the 17 items were added to generate a summary score that
+could range from 0 to 68, with higher scores indicating poorerfunction. This instrument, which also includes questions re-garding pain and stiffness that were used as secondary out-comes, has been validated and is recommended by the Osteo-arthritis Research Society as the measure of choice whenassessing health status in older adults with knee OA (40).
+Secondary outcome measures .Weight. Each subject’s
+weight (without shoes) was measured at baseline and at theEXERCISE AND WEIGHT LOSS IN OVERWEIGHT ADULTS WITH KNEE OA 1503
+ 15290131, 2004, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/art.20256 by HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM, Wiley Online Library on [12/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+--- Page 4 ---
+6-month and 18-month followup visits, using the same cali-
+brated scale. Measurement at each session was scheduled forthe same time of day.
+Measures of mobility. Two performance-based tasks,
+with high test–retest reliability ( /H110220.85) for patients with knee
+OA, were used as measures of mobility (42). These includedthe distance walked in 6 minutes and a timed stair-climbingtask.
+Pain. The WOMAC (40) was used to assess a partici-
+pant’s level of pain. The rating scale for pain items is identicalto the WOMAC physical function scale, ranging from 0 (none)to 4 (extreme). The pain subscale consists of 5 items, and totalscores can range from 0 to 20, with higher scores indicatinggreater dysfunction.
+Knee radiographs. Bilateral anteroposterior weight-
+bearing knee radiographs were used to assess the presence of
+tibiofemoral arthritis, and bilateral sunrise views were used toassess the presence of patellofemoral arthritis. Both radio-graphs were obtained at baseline and at 18 months. Theweight-bearing radiographs were obtained with the subject’s
+knees flexed at a 15° angle. The x-ray beam was centered on
+the joint space. Foot maps were used at baseline and followupto assure similar positioning for the 2 radiographs. The focus-to-film distance was held constant throughout the study.
+A single physician blinded to the treatment group read
+the radiographs. Severity of tibiofemoral OA was measuredusing the Kellgren/Lawrence grading scale (35). The minimumjoint space width of the medial and lateral compartments wasmeasured using a 0.1-mm graduated magnifying lens to assess
+disease progression (43,44). Patellofemoral disease was graded
+as present or absent based on the presence of osteophytes orjoint space narrowing.
+Demographics. Age, race, education, and income data
+were acquired by self-report. Information that was obtainedconcerning comorbid conditions was based on the subject’smedical history, medication use, and a physical examination.
+Statistical analysis. The primary objective of the trial
+was to compare the effects of diet and exercise interventions
+on self-reported physical function. The trial was designed torandomize 300 subjects to achieve 254 evaluable subjects at theend of 18 months. A total sample size of 254 subjects wasprojected to provide a power of 90% to detect a 25% differ-ence in the WOMAC scale for physical function betweenpairwise comparisons of the intervention and control groups.Primary analyses were conducted by intent-to-treat, with par-
+ticipants analyzed according to their initial assignments. All
+tests of hypotheses and reported Pvalues are 2-sided.
+Analysis of variance and the chi-square test were used
+to test for differences in baseline characteristics by treatmentgroup. The effects of diet and/or exercise programs on disabil-ity, physical function, pain, and measures of mobility assessedat 6 and 18 months postrandomization were determined bytwo-way repeated-measures analysis of covariance (AN-COVA). Analyses were conducted using SAS Proc Mixed
+software version 8.2 (SAS Institute, Cary, NC), which analyzes
+all available followup information. This procedure does notassume that missing data are missing completely at random.This method for repeated-measures ANCOVA adjusts themeans at each time point for potential biases resulting frommissing observations being dependent on values of the out-come at other time points or baseline values of the covariates.Estimates of intervention effects were obtained at each fol-
+lowup observation. Tests of time of followup by interventioneffects were conducted to test for consistency of effects overthe followup period. Group-by-time interactions were notsignificant, and average intervention effects over the followupperiod were estimated and tested for significance. Analyses of
+group differences were adjusted for the prerandomization
+levels of the baseline value of the outcome being analyzed andsex. Reported within-group changes (i.e., 18-month value /H11002
+baseline value) are presented as supplemental information.
+RESULTS
+Retention and adherence. The total number of
+persons prescreened via telephone during an 18-monthrecruitment period was 2,209 (Figure 1). Of these, 72%(1,596 of 2,209) were ineligible, and 13% (297 of 2,209)declined to participate, leaving 316 persons who wererandomized to 1 of the 4 treatment groups. The charac-teristics of the randomized cohort are shown in Table 1.
+Of the 316 randomized participants, 252 (80%)
+completed the study (returned for the final data-collection visit). The study participants who did notcomplete the study were not significantly different fromthose who remained in terms of age, sex, race, number of
+Figure 1. Progress of participants through the Arthritis, Diet, and
+Activity Promotion Trial (ADAPT).1504 MESSIER ET AL
+ 15290131, 2004, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/art.20256 by HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM, Wiley Online Library on [12/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+--- Page 5 ---
+comorbidities, initial radiographic score, knee pain, or
+physical function. Two deaths that occurred during thecourse of the study were unrelated to the interventions.Retention of participants was not significantly differentbetween the 4 groups (for healthy lifestyle, 86%; for dietonly, 77%; for exercise only, 80%; for diet plus exercise,76%) (Figure 1).
+In the healthy lifestyle group, adherence was 77%
+for the first 3 months (defined as attendance at the 3healthy lifestyle classes) and 73% for months 4–18(defined as the percentage of followup calls that weresuccessfully completed). For those participants complet-ing the diet and/or exercise interventions, adherence wasas follows: for diet only, 72% (defined as attendance atnutrition classes); for exercise only, 60% (defined as thenumber of exercise sessions completed divided by thenumber of sessions scheduled); and for diet plus exer-cise, 64% (defined as the average of the 2 interventionrequirements). There was no significant difference inadherence between the 3 diet and/or exercise interven-
+tion groups. One serious adverse event related to par-ticipation in the trial occurred when a participant
+tripped while exercising and sustained a laceration to hishead.After the first 4 months of facility-based exercise,
+64% of the subjects in the 2 exercise groups chose toremain in the facility-based program, 24% opted for thehome-based program, and 12% of the subjects chose a
+Figure 2. Mean/H11006SEM unadjusted Western Ontario and McMaster
+Universities Osteoarthritis Index (WOMAC) physical function sum-mary scores across the 18-month intervention period. /H11569/H11005P/H110210.05,
+diet plus exercise group versus healthy lifestyle group.Table 1. Demographic and clinical characteristics of the study participants*
+CharacteristicHealthy
+lifestyle
+(n/H1100578)Diet only
+(n/H1100582)Exercise
+only
+(n/H1100580)Diet plus
+exercise
+(n/H1100576)
+Age, mean /H11006SEM years 69 /H110060.1 68 /H110060.7 69 /H110060.8 69 /H110060.8
+% female 68 72 74 74% nonwhite 21 28 25 22Weight, mean /H11006SEM kg 96 /H110060.2 95 /H110060.2 92 /H110060.2 92 /H110060.2
+Height, mean /H11006SEM meters 1.67 /H110060.01 1.66 /H110060.01 1.64 /H110060.01 1.64 /H110060.01
+BMI, mean /H11006SEM kg/m
+234.2/H110060.6 34.5 /H110060.6 34.2 /H110060.6 34.0 /H110060.7
+Annual household income, %
+/H11021$15,000 19 19 17 19
+$15,000–$35,000 30 33 32 36$35,000–$50,000 15 24 31 20/H11022$50,000 36 24 21 24
+Education, %
+/H1102112 years 4310
+12 years 11 8 9 11/H1102212 years 85 90 90 89
+Comorbid illnesses, %
+Obesity (BMI /H1135030 kg/m
+2) 76 81 84 70
+Arthritis in other joints 58 58 55 53Hypertension 46 51 54 44Coronary heart disease 28 23 34 26Diabetes 9 6 11 12
+Kellgren/Lawrence score 2.21 /H110060.09 2.31 /H110060.75 2.19 /H110060.81 2.31 /H110060.88
+WOMAC function (range 0–68) 26.0 /H110061.3 23.3 /H110061.3 24.0 /H110061.3 23.6 /H110061.4
+* Nonwhite /H11005Hispanic or non-Caucasian; BMI /H11005body mass index; WOMAC /H11005Western Ontario and
+McMaster Universities Osteoarthritis Index.EXERCISE AND WEIGHT LOSS IN OVERWEIGHT ADULTS WITH KNEE OA 1505
+ 15290131, 2004, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/art.20256 by HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM, Wiley Online Library on [12/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+--- Page 6 ---
+combined facility–home-based program. There were no
+significant group-by-time interaction effects for any ofthe primary or secondary outcome measures; therefore,average intervention effects over the followup period (6and 18 months) were estimated and tested for signifi-cance.
+Primary outcome. The primary outcome of
+ADAPT was self-reported physical function using theWOMAC. An ANCOVA, using baseline function andsex as covariates, revealed that subjects in the diet plusexercise group significantly improved their physicalfunction ( P/H110210.05) relative to the healthy lifestyle
+control group during the 18-month intervention (Figure2). There were no significant differences between theexercise-only or diet-only groups and the healthy life-style group.
+The within-group change in WOMAC physical
+function during the 18-month intervention revealed sig-nificant improvements of 24% and 18% in the diet plusexercise group (mean 5.73; 95% confidence interval[95% CI] 2.63, 8.83) and the diet-only group (mean 4.23;95% CI 1.27, 7.19). Nonsignificant improvements of
+12% and 13% were noted in the exercise-only group
+(mean 3.07; 95% CI 1.91, 6.13) and the healthy lifestylegroup (mean 3.40; 95% CI 0.48, 6.32).Secondary outcomes .Weight loss . Both weight
+loss intervention groups (diet only, diet plus exercise)lost significantly ( P/H110210.05) more weight relative to the
+healthy lifestyle group. Subjects in the diet-only grouplost an average of 4.9% of their body weight (mean 4.61kg; 95% CI 0.38, 8.84) during the 18-month intervention,whereas those in the diet plus exercise group lost 5.7%of their body weight (mean 5.20 kg; 95% CI 0.85, 9.55).Individuals in the exercise-only group lost 3.7% of theirbody weight (mean 3.46 kg; 95% CI /H110020.77, 7.69) while
+those in the healthy lifestyle group lost 1.2% of theirbody weight (mean 1.10 kg; 95% CI /H110023.00, 5.20).
+Mobility measures . There was a significant differ-
+ence in the 6-minute walk distance ( P/H110210.05) and the
+stair-climb time ( P/H110210.05) between the diet plus exer-
+cise and the healthy lifestyle groups during the 18-monthintervention period (Tables 2 and 3). In the exercise-only group, the 6-minute walk distance significantlyimproved ( P/H110210.05) relative to that of the healthy
+lifestyle group. Improvements in the 2 mobility mea-sures for the diet-only group, however, were not signif-icantly different from those occurring in the healthylifestyle group.
+Pain . The diet plus exercise group made signifi-
+cant improvements in self-reported pain ( P/H113490.05)Table 2. Six-minute walk distance at baseline, 6 months, and 18 months and absolute change from
+baseline*
+Study group6-minute walk distance, meters
+Baseline 6 months 18 monthsChange from baseline
+at 18 months
+(95% confidence interval)
+Healthy lifestyle 434.61 /H1100610.96 428.56 /H1100612.88 429.89 /H1100612.77 /H110024.72 (/H1100229.75, 20.31)
+Diet only 425.98 /H1100610.89 433.68 /H1100611.94 435.63 /H1100612.88 9.65 ( /H1100215.79, 35.09)
+Exercise only 424.15 /H1100611.42 465.04 /H1100612.13 472.73 /H1100613.12† 48.58 (22.87, 74.29)
+Diet plus exercise 416.15 /H1100611.34 482.37 /H1100612.65 477.76 /H1100613.12† 61.61 (35.90, 87.32)
+* Values are the mean /H11006SEM.
+†P/H110210.05 versus healthy lifestyle.
+Table 3. Stair-climb time at baseline, 6 months, and 18 months and absolute change from baseline*
+Study groupStair-climb time, seconds
+Baseline 6 months 18 monthsChange from baseline at
+18 months (95%
+confidence interval)
+Healthy lifestyle 9.59 /H110060.64 9.97 /H110060.75 9.37 /H110060.76 /H110020.22 (/H110021.71, 1.27)
+Diet only 9.74 /H110060.65 9.88 /H110060.70 8.43 /H110060.78 /H110021.31 (/H110022.84, 0.22)
+Exercise only 10.52 /H110060.66 8.87 /H110060.73 8.89 /H110060.78 /H110021.63 (/H110023.16,/H110020.10)
+Diet plus exercise 10.99 /H110060.67 8.83 /H110060.78 8.45 /H110060.81† /H110022.54 (/H110024.13,/H110020.95)
+* Values are the mean /H11006SEM.
+†P/H110210.05 versus healthy lifestyle.1506 MESSIER ET AL
+ 15290131, 2004, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/art.20256 by HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM, Wiley Online Library on [12/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+--- Page 7 ---
+relative to the healthy lifestyle group (Table 4). Pain
+decreased 30.3% in the diet plus exercise group duringthe 18-month intervention. Although there were noother significant between-group differences, pain tendedto improve in all 4 groups.
+Radiographic progression . Changes in medial and
+lateral joint space width were not significantly differentbetween the groups (Table 5). In general, medial jointspace width narrowed more compared with the lateraljoint space width.
+DISCUSSION
+Results of previous short-term studies suggest
+that the combination of dietary weight loss plus exerciseis effective in improving self-reported physical functionand mobility in osteoarthritic patients compared withexercise only (32), diet only (31), and pain therapy(ultrasound and transcutaneous electric stimulation)(33). Our statistical analysis indicated that all of theintervention groups and the healthy lifestyle (control)group tended to have improved function; however, it waswhen diet was combined with exercise that subjectsrealized the greatest and statistically significant benefitin function. Interestingly, the 3 intervention groups
+improved within the first 6 months, and then maintainedthese improvements for an additional 12 months. This
+was especially noteworthy among patients in the dietplus exercise group, who maintained a 24% improve-ment. Only the healthy lifestyle group experienced re-gression of function toward baseline values. Therefore,we suggest that the combination of diet plus exerciseproduces consistently better and clinically relevant im-provements in self-reported physical function comparedwith either diet or exercise alone.
+The effects of long-term exercise programs (aer-
+obic or resistance) on self-reported physical functionindicate significant, yet modest, beneficial effects (1–11%) with a gradual return toward baseline values(12,13,15). The improvement observed in our exercise-only group (13% improvement) compared favorablywith that observed in previous studies (12,13,15), yetthere was no significant difference relative to the healthylifestyle control group. The surprising 13% improve-ment in the control group combined with the highfunctional level of the entire cohort (see Table 1) madeattaining significant gains more difficult.
+The decision to use an attention control versus a
+no-treatment control group in clinical trials researchusually creates considerable debate among investigators.Equating the amount of contact time between interven-Table 4. Self-reported pain at baseline, 6 months, and 18 months and absolute change from baseline*
+Study groupWOMAC pain score
+Baseline 6 months 18 monthsChange from baseline at
+18 months (95%
+confidence interval)
+Healthy lifestyle 7.25 /H110060.39 6.19 /H110060.46 6.02 /H110060.45 /H110021.23 (/H110022.11,/H110020.35)
+Diet only 6.58 /H110060.40 5.10 /H110060.43 5.51 /H110060.45 /H110021.07 (/H110021.95,/H110020.19)
+Exercise only 6.64 /H110060.39 6.22 /H110060.45 6.24 /H110060.47 /H110020.40 (/H110021.32, 0.52)
+Diet plus exercise 7.27 /H110060.41 5.47 /H110060.47 5.07 /H110060.47† /H110022.20 (/H110023.12,/H110021.28)
+* Values are the mean /H11006SEM scores (range 0–20, with higher scores indicating greater dysfunction).
+WOMAC /H11005Western Ontario and McMaster Universities Osteoarthritis Index.
+†P/H110050.05 versus healthy lifestyle.
+Table 5. Lateral and medial joint space width at baseline and 18 months and absolute change from baseline*
+Joint space width Healthy lifestyle Diet only Exercise only Diet plus exercise
+Lateral
+Baseline 4.73 /H110060.16 4.62 /H110060.16 4.54 /H110060.20 4.85 /H110060.18
+18 months 4.58 /H110060.20 4.56 /H110060.17 4.48 /H110060.18 4.63 /H110060.19
+Change (95% CI) /H110020.15 (/H110020.54, 0.24) /H110020.06 (/H110020.39, 0.27) /H110020.06 (/H110020.41, 0.29) /H110020.22 (/H110020.59, 0.15)
+Medial
+Baseline 3.18 /H110060.21 3.18 /H110060.18 3.37 /H110060.19 3.23 /H110060.23
+18 months 2.93 /H110060.20 2.98 /H110060.17 3.18 /H110060.21 2.93 /H110060.21
+Change (95% CI) /H110020.25 (/H110020.64, 0.14) /H110020.20 (/H110020.53, 0.13) /H110020.19 (/H110020.60, 0.22) /H110020.30 (/H110020.71, 0.11)
+* Values are the mean /H11006SEM mm. 95% CI /H1100595% confidence interval.EXERCISE AND WEIGHT LOSS IN OVERWEIGHT ADULTS WITH KNEE OA 1507
+ 15290131, 2004, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/art.20256 by HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM, Wiley Online Library on [12/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+--- Page 8 ---
+tion and attention control groups is difficult and costly.
+Recently, we observed declines over a 30-month periodof 10% and 6% in lower extremity strength and balance,respectively, in older adults with knee OA (45). Thesedata suggest that in the absence of any intervention, adecline in physical ability and physical performance islikely in this older, osteoarthritic population. The im-provements in our control group suggest that the healthylifestyle intervention was effective in slowing the declinein function commonly seen in no-treatment controlgroups.
+The increase in disability and dependence in
+performing daily activities observed in older adults withOA is accelerated by mobility impairment (46). Al-though short-term exercise programs have demonstratedbetween 4% and 18% improvements in mobility inpatients with knee OA (16–18), the effects of long-term
+exercise programs indicate more modest improvements(1–2%), with a return toward baseline values (15). Ourphysical performance (6-minute walk distance, stair-climb time) data indicate that exercise can result inclinically relevant (16% overall improvement) and sta-tistically significant long-term gains in mobility, effec-tively slowing the increase in mobility impairment that iscommon in an older, osteoarthritic population (45,46).
+Radiographic progression of disease, as mea-
+sured by joint space narrowing, was similar among the 4study groups. The relatively short duration (18 months)of the intervention and the number of subjects per group(/H1101180) probably prevented the detection of meaningful
+differences in radiographic disease progression.
+Often, older adults with knee OA are reluctant to
+exercise for fear of exacerbating their knee pain. In thediet plus exercise group, walking velocity significantlyincreased, suggesting an increase in the load placed onthe lower extremity joints, yet knee pain significantlydecreased (by 30%). For the exercise-only group, the
+improvement in walking velocity did not have an adverseeffect on knee pain, which improved 6% from baseline.These data are consistent with results of 2 previousstudies of older adults with knee OA who were enrolledin exercise or diet plus exercise programs (15,32). Inter-estingly, diet produced a 16% improvement in kneepain; however, it was diet in combination with exercisethat had the greatest and only significant effect on pain(see Table 4). From a clinical perspective, these resultssuggest that physicians can prescribe either diet orexercise for their overweight and obese patients withmild to moderate knee OA without the likelihood ofworsening their symptoms. Furthermore, patients aremost likely to realize the greatest improvements in painwhen they combine diet with exercise. We acknowledge,
+however, that this assertion is based on mean values, andthat there will be individuals whose symptoms mayworsen with exercise.
+The diet plus exercise and diet-only groups lost
+significantly more weight (5.7% and 4.9%, respectively)than did the control group. This weight loss is consistentwith that observed in previous long-term weight lossstudies (37,47,48). Williams and Foulsham (49) reportedthat the degree of weight loss was related to clinicalimprovement. While this held true for our self-reportedmeasures, subjects in the exercise group, who experi-enced only a 3.7% weight loss, generally performedbetter on mobility measures than did the diet-onlygroup. Change in muscle mass, which was not measured,may have contributed to the differences in mobilitybetween the groups.
+Relative to our prior experience with a combined
+facility- and home-based exercise clinical trial (15),overall adherence was lower in ADAPT but was similarto that observed in the facility-based group in anotherlarge-scale community-based exercise trial (50). Thesedata underscore the difficulty in maintaining standardexercise and dietary weight loss programs in previouslysedentary, overweight adults with mobility disability,and emphasizes the need for studies that focus onstrategies that improve adherence to long-term exerciseand dietary therapy programs.
+Improvement in the diet and exercise groups was
+dependent on the type of outcome measure. Morespecifically, the diet-only group performed better thanthe exercise-only group on self-reported measures (al-
+though neither group was statistically different from the
+healthy lifestyle group), while the reverse was true formobility measures. It appears logical, then, that combin-ing the 2 interventions would lead to the diet plusexercise group’s consistently superior results on bothself-reported and mobility measures. Further research isneeded to determine whether there is a significant doseresponse to both exercise and weight loss on measures ofphysical function and mobility.
+For many years, physicians have recommended
+that overweight patients with knee OA exercise and loseweight, and this approach has been recommended in theACR guidelines for the management of knee OA (29).However, our study is the first large, randomized, con-trolled clinical trial to demonstrate the relative andcombined contributions of exercise and weight loss onfunction, pain, and mobility in patients with knee OA.This study indicates that combining modest weight losswith moderate exercise provides the best overall im-
+1508 MESSIER ET AL
+ 15290131, 2004, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/art.20256 by HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM, Wiley Online Library on [12/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+--- Page 9 ---
+provements in self-reported measures of function and
+pain and performance measures of mobility. These dataalso show that long-term weight loss through calorierestriction can be achieved in this population. Withoutthe addition of exercise, however, dietary weight lossalone does not result in significant improvements inmobility (an important determinant of disability) or
+self-reported function and pain. Considering the sideeffects that often limit the use of OA drug therapy (9)
+and the possible ineffectiveness of surgical interventionin cases of mild to moderate knee OA (11), our results
+give strong support to the combination of exercise andweight loss as a cornerstone for the treatment of over-weight and obese patients with knee OA.
+REFERENCES
+1. Bolen J, Helmick CG, Sacks JJ, Langmaid G. Prevalence of self
+reported arthritis or chronic joint symptoms among adults: UnitedStates, 2001. MMRW Morb Mortal Wkly Rep 2002;51:948–50.
+2. Blackwell DL, Collins JG, Coles R. Summary health statistics for
+US adults: National Health Interview Survey, 1997. NationalCenter for Health Statistics. Vital Health Stat 10:205;2002.
+3. Lawrence RC, Helmick CG, Arnett FC, Deyo RA, Felson DT,
+Giannini EH, et al. Estimates of the prevalence of arthritis andselected musculoskeletal disorders in the United States. ArthritisRheum 1998;41:778–99.
+4. Creamer P, Hochberg MC. Osteoarthritis. Lancet 1997;350:503–9.5. Davis MA. Epidemiology of osteoarthritis. Clin Geriatr Med
+1988;4:241–55.
+6. Felson DT, Naimark A, Anderson J, Kazis L, Castelli W, Meenan
+RF. The prevalence of knee osteoarthritis in the elderly: theFramingham Osteoarthritis Study. Arthritis Rheum 1987;30:914–8.
+7. Jokl P. Prevention of disuse muscle atrophy in chronic arthritides.
+Rheum Dis Clin North Am 1990;16:837–44.
+8. Bunning RD, Materson RS. A rational program of exercise for
+patients with osteoarthritis. Semin Arthritis Rheum 1991;21(3Suppl 2):33–43.
+9. Carson GL, Strom BL, Soper KA, West SL, Morse ML. The
+association of nonsteroidal anti-inflammatory drugs with uppergastrointestinal tract bleeding. Arch Intern Med 1987;147:85–8.
+10. Trappe TA, White F, Lambert CP, Cesar D, Hellerstein M, Evans
+WJ. Effect of ibuprofen and acetaminophen on postexercisemuscle protein synthesis. Am J Physiol Endocrinol Metab 2002;282:E551–6.
+11. Moseley JB, O’Malley K, Petersen NJ, Menke TJ, Brody BA,
+Kuykendall DH, et al. A controlled trial of arthroscopic surgeryfor osteoarthritis of the knee. N Engl J Med 2002;347:81–8.
+12. Thomas KS, Muir KR, Doherty M, Jones AC, O’Reilly SC, Bassey
+EJ. Home based exercise programme for knee pain and kneeosteoarthritis: randomized controlled trial. BMJ 2002;325:752–7.
+13. Van Baar ME, Assendelft WJ, Dekker J, Oostendorp RA, Bijlsma
+JW. Effectiveness of exercise therapy in patients with osteoarthri-tis of the hip or knee: a systematic review of randomized clinicaltrials. Arthritis Rheum 1999;42:1361–9.
+14. Chamberlain MA, Care G, Harfield B. Physiotherapy in osteoar-
+thritis of the knees: a controlled trial of hospital versus homeexercises. Int Rehabil Med 1982;4:101–6.
+15. Ettinger WH Jr, Burns R, Messier SP, Applegate W, Rejeski WJ,
+Morgan T, et al. A randomized trial comparing aerobic exerciseand resistance exercise with a health education program in olderadults with knee osteoarthritis: the Fitness Arthritis and Seniors
+Trial (FAST). JAMA 1997;227:25–31.
+16. Kovar PA, Allegrante JP, MacKenzie CR, Peterson MG, Gutin B,
+Charlson ME. Supervised fitness walking in patients with osteoar-thritis of the knee: a randomized, controlled trial. Ann Intern Med
+1992;116:529–34.
+17. Minor MA, Hewett JE, Webel RR, Anderson SK, Kay DR.
+Efficacy of physical conditioning exercise in patients with rheuma-
+toid arthritis and osteoarthritis. Arthritis Rheum 1989;32:
+1396–405.
+18. Fisher NM, Pendergrast DR, Glen EG, Calkins E. Muscle reha-
+bilitation: its effect on muscular and functional performance ofpatients with knee osteoarthritis. Arch Phys Med Rehabil 1991;72:
+367–74.
+19. Davis MA, Ettinger WH, Neuhaus JM. Obesity and osteoarthritis
+of the knee: evidence from the National Health and Nutrition
+Examination Survey (NHANES I). Semin Arthritis Rheum 1990;
+20(3 Suppl 1):34–41.
+20. Anderson JJ, Felson DT. Factors associated with osteoarthritis of
+the knee in the First National Health and Nutrition Examination
+Survey (NHANES I). Am J Epidemiol 1988;128:179–89.
+21. Felson DT, Anderson JJ, Naimark A, Walker AM, Meenan RF.
+Obesity and knee osteoarthritis: the Framingham Study. AnnIntern Med 1988;109:18–24.
+22. Felson DT. The epidemiology of knee osteoarthritis: results from
+the Framingham Osteoarthritis Study. Semin Arthritis Rheum1990;20(3 Suppl 1):42–50.
+23. Ettinger WH, Davis MA, Neuhaus JM, Mallon KP. Long-term
+physical functioning in persons with knee osteoarthritis from
+NHANES I: effects of comorbid medical conditions. J Clin
+Epidemiol 1994;47:809–13.
+24. Hartz AJ, Fischer ME, Bril G, Kelber S. The association of obesity
+with joint pain and osteoarthritis in the HANES data. J ChronicDis 1986;39:311–9.
+25. Leach RE, Baumgard S, Broom J. Obesity: its relationship to
+osteoarthritis of the knee. Clin Orthop 1973;93:271–3.
+26. Messier SP. Osteoarthritis of the knee and its associated factors of
+age and obesity. Med Sci Sports Exerc 1994;26:1446–52.
+27. Goldin RH, McAdam L, Louie JS, Gold R, Bluestone R. Clinical
+and radiological survey of the incidence of osteoarthritis amongobese patients. Ann Rheum Dis 1976;35:349–53.
+28. Felson DT, Zhang Y, Anthony JM, Naimark A, Anderson JJ.
+Weight loss reduces the risk for symptomatic knee osteoarthritis inwomen. Ann Intern Med 1992;116:535–9.
+29. American College of Rheumatology Subcommittee on Osteoar-
+thritis Guidelines. Recommendations for the medical managementof osteoarthritis of the hip and knee: 2000 update. ArthritisRheum 2000;43:1905–15.
+30. Pendleton A, Arden N, Dougados M, Doherty M, Bannwarth B,
+Bijlsma JW, et al. EULAR recommendations for the managementof knee osteoarthritis: report of a task force of the StandingCommittee for International Clinical Studies Including Therapeu-tic Trials (ESCISIT). Ann Rheum Dis 2000;59:936–44.
+31. Toda Y. The effect of energy restriction, walking, and exercise on
+lower extremity lean body mass in obese women with osteoarthritisof the knee. J Orthop Sci 2001;6:148–54.
+32. Messier SP, Loeser RF, Mitchell MN, Valle G, Morgan TP,
+Rejeski WJ, et al. Exercise and weight loss in obese older adultswith knee osteoarthritis: a preliminary study. J Am Geriatr Soc2000;48:1062–72.
+33. Huang MH, Chen CH, Chen TW, Wenig MC, Wang WT, Wang
+YL. The effects of weight reduction on the rehabilitation ofpatients with knee osteoarthritis and obesity. Arthritis Care Res2000;13:398–405.
+34. Rejeski WJ, Focht BC, Messier SP, Morgan T, Pahor M, Pennix B.
+Obese older adults with knee osteoarthritis: weight loss, exercise,and quality of life. Health Psychol 2002;21:419–26.EXERCISE AND WEIGHT LOSS IN OVERWEIGHT ADULTS WITH KNEE OA 1509
+ 15290131, 2004, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/art.20256 by HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM, Wiley Online Library on [12/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+--- Page 10 ---
+35. Kellgren JH, Lawrence JS. Radiological assessment of osteoar-
+throsis. Ann Rheum Dis 1957;16:494–502.
+36. Berry MJ, Brubaker PH, O’Toole ML, Rejeski WJ, Soberman J,
+Ribisl PM, et al. Estimation of VO2in older individuals with
+osteoarthritis of the knee and cardiovascular disease. Med Sci
+Sports Exerc 1996;28:808–14.
+37. Whelton PK, Appel LJ, Espeland MA, Applegate WB, Ettinger
+WH Jr, Kostis JB, et al, and the TONE Collaborative ResearchGroup. Sodium reduction and weight loss in the treatment ofhypertension in older persons: a randomized controlled trial ofnonpharmacologic interventions in the elderly (TONE). JAMA1998;279:839–46.
+38. Cartwright DC, Zander A. Group dynamics: research and theory.
+New York: Harper & Row; 1953.
+39. Bandura A. Social foundations of thought and action: a social
+cognitive theory. Englewood Cliffs (NJ): Prentice Hall; 1986.
+40. Bellamy N, Buchanan WW, Goldsmith CH. Validation study of
+the WOMAC: a health status instrument for measuring clinicallyimportant patient relevant outcomes to antirheumatic drug ther-apy in patients with osteoarthritis of the hip or knee. J Rheumatol1988;15:1833–40.
+41. Bellamy N. Outcome measurement in osteoarthritis clinical trials.
+J Rheumatol Suppl 1995;43:49–51.
+42. Rejeski WJ, Ettinger WH Jr, Schumaker S, James P, Burns R,
+Elam JT. Assessing performance-related disability in patients withknee osteoarthritis. Osteoarthritis Cartilage 1995;3:157–67.
+43. Altman R, Brandt K, Hochberg M, Moskowitz R, Bellamy N,
+Bloch DA, et al. Design and conduct of clinical trials of patientswith osteoarthritis: recommendations from a task force of the
+Osteoarthritis Research Society. Osteoarthritis Cartilage 1996;4:217–43.
+44. Lesquesne M. Quantitative measurements of joint space width
+during progression of osteoarthritis: chondrometry. In: KuettnerKE, Goldberg VM, editors. Osteoarthritic disorder. Rosemont(IL): American Academy of Orthopedic Surgeons; 1995. p.427–44.
+45. Messier SP, Glasser JL, Ettinger WH Jr, Craven TE, Miller ME.
+Declines in strength and balance in older adults with chronic kneepain: a 30-month longitudinal, observational study. Arthritis
+Rheum (Arthritis Care Res) 2002;47:141–8.
+46. Schultz AB. Mobility impairment in the elderly: challenges for
+biomechanics research. J Biomech 1992;25:519–28.
+47. Wood PD, Stefanick ML, Dreon DM, Frey-Hewitt B, Garay SC,
+Williams PT, et al. Changes in plasma lipids and lipoproteins inoverweight men during weight loss through dieting as compared
+with exercise. N Engl J Med 1988;319:1173–9.
+48. Frey-Hewitt B, Vranizan KM, Dreon DM, Wood PD. The effect of
+weight loss by dieting or exercise on resting metabolic rate in
+overweight men. Int J Obesity 1990;14:327–34.
+49. Williams RA, Foulsham BM. Weight reduction in osteoarthritis
+using phentermine. Practitioner 1981;225:231–2.
+50. King AC, Haskell WL, Taylor CB, Kraemer HC, DeBusk RF.
+Group- vs home-based exercise training in healthy older men and
+women: a community-based clinical trial. JAMA 1991;266:
+1535–42.1510 MESSIER ET AL
+ 15290131, 2004, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/art.20256 by HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM, Wiley Online Library on [12/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

@@ -1,0 +1,158 @@
+{
+  "Article ID": "Freitag, 2024",
+  "Outcome Name": "Pain (NPRS) and function (KOOS-ADL) at month 12",
+  "registration number": "DRKS00000001",
+  "Domain 1": {
+    "1.1": {
+      "Result": "NI",
+      "Confidence": 100,
+      "Reason": "The article states 'randomised' but does not describe methods for generating random sequences (e.g., computer-generated, block randomization)."
+    },
+    "1.2": {
+      "Result": "NI",
+      "Confidence": 100,
+      "Reason": "The article describes 'double-blind' but does not mention allocation concealment methods (e.g., central allocation, opaque envelopes)."
+    },
+    "1.3": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "Table 1 shows no statistically significant differences in baseline characteristics between groups (age, BMI, KL grade, etc.)."
+    },
+    "Domain Result": "Some concerns",
+    "Confidence": 100,
+    "Reason": "1.2 is NI and 1.3 is N, leading to 'some concerns' per evaluation rules."
+  },
+  "Domain 2": {
+    "2.1": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "The article states 'double-blind' and participants received placebo, so they were unaware of allocation."
+    },
+    "2.2": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "Double-blind design implies intervention providers were unaware of allocation; placebo was used."
+    },
+    "2.3": {
+      "Result": "NI",
+      "Confidence": 100,
+      "Reason": "The article does not report any deviations from intended interventions."
+    },
+    "2.4": {
+      "Result": "NI",
+      "Confidence": 100,
+      "Reason": "No information on deviations, so no judgment on effect on outcomes."
+    },
+    "2.5": {
+      "Result": "NI",
+      "Confidence": 100,
+      "Reason": "No information on deviations, so no judgment on balance between groups."
+    },
+    "2.6": {
+      "Result": "PN",
+      "Confidence": 100,
+      "Reason": "No analysis method reported, but number analyzed (40) equals randomized (40), so cannot be N/PN per instructions."
+    },
+    "2.7": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "All 40 randomized participants were analyzed (no exclusions)."
+    },
+    "Part 1 Result": "Low risk",
+    "Part 2 Result": "Some concerns",
+    "Overall Domain Result": "Some concerns",
+    "Confidence": 100,
+    "Reason": "Part 1: 2.1=N, 2.2=N, 2.3=NI → Low risk. Part 2: 2.6=PN, 2.7=N → Some concerns. Overall: Some concerns."
+  },
+  "Domain 3": {
+    "3.1": {
+      "Result": "Y",
+      "Confidence": 100,
+      "Reason": "All 40 randomized participants had outcome data (100% complete for continuous outcomes)."
+    },
+    "3.2": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "No bias correction methods (e.g., inverse probability weighting) or sensitivity analyses reported; ITT not a correction method."
+    },
+    "3.3": {
+      "Result": "NI",
+      "Confidence": 100,
+      "Reason": "No information on reasons for missing data or dropout."
+    },
+    "3.4": {
+      "Result": "NI",
+      "Confidence": 100,
+      "Reason": "No information on missing data patterns or reasons."
+    },
+    "Domain Result": "Low risk",
+    "Confidence": 100,
+    "Reason": "3.1 is Y, leading to Low risk regardless of other answers."
+  },
+  "Domain 4": {
+    "4.1": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "NPRS and KOOS are validated, reliable patient-reported outcome measures."
+    },
+    "4.2": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "Outcomes measured similarly for all groups at same time points (baseline, 12 months)."
+    },
+    "4.3": {
+      "Result": "Y",
+      "Confidence": 100,
+      "Reason": "Outcomes are patient-reported (NPRS, KOOS), and participants were aware of their allocation (double-blind but may infer from effects)."
+    },
+    "4.4": {
+      "Result": "Y",
+      "Confidence": 100,
+      "Reason": "Outcomes are subjective patient-reported measures (pain, function)."
+    },
+    "4.5": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "No clear evidence that knowledge of intervention influenced assessment; double-blind design reduces risk."
+    },
+    "Domain Result": "Some concerns",
+    "Confidence": 100,
+    "Reason": "4.1=N, 4.2=N, 4.3=Y, 4.4=Y, 4.5=N → Some concerns per evaluation rules."
+  },
+  "Domain 5": {
+    "5.1": {
+      "Result": "NI",
+      "Confidence": 100,
+      "Reason": "No protocol or pre-specified analysis plan mentioned; registration number provided but no details."
+    },
+    "5.2": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "Methods section specifies NPRS and KOOS-ADL as primary outcomes; results report these as intended."
+    },
+    "5.3": {
+      "Result": "N",
+      "Confidence": 100,
+      "Reason": "Methods specify compound responder analysis; results report this analysis consistently."
+    },
+    "Domain Result": "Some concerns",
+    "Confidence": 100,
+    "Reason": "5.2=N, 5.3=N, 5.1=NI → Some concerns per evaluation rules."
+  },
+  "Overall Bias Risk": "Some concerns",
+  "Confidence": 100,
+  "Reason": "Domain 1: Some concerns, Domain 2: Some concerns, Domain 3: Low risk, Domain 4: Some concerns, Domain 5: Some concerns → One domain Low risk, others Some concerns → Overall Some concerns.",
+  "_assessment_info": {
+    "first_author": "Freitag",
+    "year": "2024",
+    "registration_number": "DRKS00000001",
+    "assessment_timestamp": "2026-01-13T07:53:47.385472",
+    "trial_text_source": "trial_ocr.txt",
+    "text_length": 53750
+  },
+  "_metadata": {
+    "saved_timestamp": "2026-01-13T07:53:47.386758",
+    "filename": "Freitag_2024_20260113_075347.json",
+    "output_directory": "rob_results"
+  }
+}

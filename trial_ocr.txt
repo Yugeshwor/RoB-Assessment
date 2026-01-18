@@ -1,0 +1,807 @@
+---
+title: "Safety and Efficacy of an Allogeneic Adipose-Derived Mesenchymal Stem Cell Preparation in the Treatment of Knee Osteoarthritis: A Phase I/IIa Randomised Controlled Trial"
+authors: Julien Freitag, Matthew Chamberlain, James Wickham, Kiran Shah, Flavia Cicuttini, Yuanyuan Wang, Ann Solterbeck, on behalf of Melbourne Stem Cell Centre Research Group, Magellan Stem Cells Group
+journal: Osteoarthritis and Cartilage Open
+year: 2024
+volume: 6
+article_id: 100500
+DOI: [10.1016/j.ocarto.2024.100500](https://doi.org/10.1016/j.ocarto.2024.100500)
+---
+
+# Abstract
+
+**Objectives:**
+To assess the safety and efficacy of an allogeneic adipose-derived mesenchymal stem cell preparation (MAG200) in the treatment of knee osteoarthritis over 12 months.
+
+**Design:**
+A single-centre, double-blind, ascending dose, randomised controlled trial. 40 participants with moderate knee osteoarthritis were randomised to receive a single intra-articular injection of MAG200 (dose cohorts: 10, 20, 50, 100 × 10⁶ cells) or placebo. Primary objectives were safety and efficacy according to a compound responder analysis of minimal clinically important difference in pain (numerical pain rating scale [NPRS]) and function (Knee Injury and Osteoarthritis Outcome Score - Function in Daily Living subscale [KOOSₐₘₗ]) at month 12. Secondary efficacy outcomes included changes from baseline in patient reported outcome measures and evaluation of disease-modification using quantitative MRI.
+
+**Results:**
+Treatment was well tolerated with no treatment-related serious adverse events. MAG200 cohorts reported a greater proportion of responders than placebo and demonstrated clinical and statistically significant improvement in pain and clinically relevant improvement in all KOOS subscales. MAG200 demonstrated a reproducible treatment effect over placebo, which was clinically relevant for pain in the 10 × 10⁶ dose cohort (mean difference NPRS: -2.25[95%CI: -4.47, -0.03, p = 0.0468]) and for function in the 20 × 10⁶ and 100 × 10⁶ dose cohorts (mean difference KOOSₐₘₗ: 10.12[95%CI: -1.51, 21.76, p = 0.0863] and 10.81[95%CI: -1.42, 23.04, p = 0.0810] respectively). A trend in disease-modification was observed with improvement in total knee cartilage volume in MAG200 10, 20, and 100 × 10⁶ dose cohorts, with progression of osteoarthritis in placebo, though this was not statistically significant. No clear dose response was observed.
+
+**Conclusion:**
+This early-phase study provides supportive safety and efficacy evidence to progress MAG200 to later-stage trial development.
+
+---
+
+# Introduction
+
+Globally over 650 million individuals aged 40 years or more are affected by knee osteoarthritis (OA). This progressive condition is a leading cause of disability, and is associated with significant economic and healthcare burden. In the absence of disease-modifying treatment, the current management of knee OA remains limited, with surgical total knee replacement (TKR) considered when conservative therapies have failed. Whilst registry data supports long-term durability of TKR, clinically meaningful pain reduction and functional outcomes can be sub-optimal in approximately 30% of patients, with the risk of serious post-surgical complications including infection, myocardial infarction, stroke and death not insignificant.
+
+Intra-articular (IA) therapies, which aim to improve pain and function, are frequently considered. The most common IA treatments are corticosteroids and viscosupplements (hyaluronic-acid) with increased use of orthobiological preparations including platelet-rich plasma. Whilst corticosteroids are recommended in international guidelines there is an acceptance that they have limited benefit beyond 3--4 weeks and are associated with an observed increase in OA progression with repetitive use. Comparably, viscosupplements demonstrate unpredictable improvement beyond 6 months and have limited benefit over placebo, with recent systematic review and meta-analysis not supporting their broad use in the treatment of knee OA. Whilst PRP is associated with modest clinical benefit up to 12 months, its use is not recommended in current international clinical practice guidelines due to lack of evidence to definitively recommend its use. Importantly, current therapies are not associated with disease-modification, and therefore have limited impact on the increasing incidence of TKR and associated socioeconomic burden.
+
+The use of mesenchymal stem cells (MSCs) has emerged as a promising approach to address the unmet clinical need of OA. MSCs are multipotent cells with the ability to differentiate into osteoblasts, adipocytes and chondroblasts. MSCs are observed to directly modulate inflammation by suppression of inflammatory cell proliferation, reduction in pro-inflammatory cytokines (IL-1 and IL-6) with polarisation of M1 macrophages to an anti-inflammatory M2 phenotype in addition to inhibition of TNFα with expression of solubleTNF receptor-1 (sTNFR1). Reduction/inhibition of such inflammatory cytokines leads to reduced expression of nerve growth factor with inhibition of nociceptive sensitisation leading to improvement in pain. Additionally, MSC secretion of trophic cytokines, including transforming growth factor (TGFβ1), may result in local tissue repair. The ability of MSCs to differentiate into chondrocytes, as well as their observed immunomodulatory/anti-inflammatory and trophic/reparative actions, has fuelled interest in their application in OA. A growing body of pre-clinical and clinical evidence supports sustained improvements in pain and function after IA injections of MSCs, in addition to observed disease-modification with stabilisation or delay in OA progression.
+
+Whilst autologous MSC therapies continue to be investigated, methods to achieve isolated autologous MSC preparations are labour intensive, require a surgical harvest procedure and are costly, therefore limiting their widespread clinical application. Conversely, allogeneic MSC preparations offer the potential of a scalable ‘off-the-shelf' therapy. Importantly, due to lack of expression of immune relevant surface markers, MSCs are considered to be immune “evasive”, and are regarded as safe to use in genetically unmatched recipients.
+
+Building on our prior research assessing the administration of autologous adipose-derived MSCs (ADMSCs), the present study reports the effect of a defined allogeneic ADMSC cell-line in the treatment of knee OA. The overall purpose of this double blinded, placebo-controlled, randomised Phase I/IIa study was to evaluate the safety and preliminary efficacy of ascending doses of an allogeneic ADMSC therapy preparation to inform optimal dose selection for its application in knee OA and later-stage pivotal trials.
+
+---
+
+# Methods
+
+## Design, Randomisation and Participants
+
+This randomised, double blind, placebo-controlled, prospective study was conducted at the Melbourne Stem Cell Centre Research, Victoria, Australia. The study was approved by the Charles Sturt University Human Research Ethics Committee, NSW, Australia and conducted in accordance with ethical principles founded in the Declaration of Helsinki (Registration ACTRN12617001095358 / ACTRN12621000622808).
+
+All participants provided written informed consent prior to screening. Eligible participants were aged 18--65 years inclusive, with documented radiological diagnosis of moderate knee OA (Kellgren-Lawrence Grade 2--3). All participants had attempted primary conservative management of OA and had an average pain score in the preceding week of ≥5 (Numeric Pain Rating Scale [NPRS]).
+
+A defined cell-line of allogeneic adipose-derived MSCs (ADMSCs) (company development code -- MAG200) was provided by trial sponsor Magellan Stem Cells Pty Ltd (Victoria, Australia). The study comprised an ascending dose phase to determine short-term (3 months) safety of MAG200 administered as a single IA injection and a follow-up phase to evaluate preliminary efficacy and longer-term safety over 12 months. 40 participants were equally allocated to one of four ascending dose cohorts with each cohort comprising 10 participants randomized in a ratio of 4:1 to receive either MAG200 or placebo. This resulted in the four active treatment doses (MAG200 10, 20, 50, 100 × 10⁶ cells) and placebo being represented equally with 8 participants (1:1:1:1:1). As this was a ‘first-in-human' study a sentinel group approach was used, with randomisation forced so that the first two participants in each dose cohort were allocated 1:1 to MAG200 or placebo. In the absence of any safety issues after 48 h, the remaining participants in each dose cohort were enrolled and randomised using a computer-generated randomisation schedule. Escalation to the next dose level occurred when safety data for the preceding dose level cohort was deemed acceptable at 1 month of follow-up.
+
+Study participants and all study personnel directly involved with participant care/treatment were blinded to the treatment allocation throughout the trial.
+
+## Preparation of Allogeneic ADMSCs
+
+The ADMSCs were derived from a single donor and underwent isolation and expansion following good laboratory and clinical practices in accordance with Magellan Stem Cells standard operating procedures. Donation and testing relevant to the procurement of donor tissue was performed according to regulatory guidelines. A lipoharvest was performed by a qualified clinician following previously reported protocols and transferred to the Magellan laboratory for manufacturing of the investigational product (MAG200). The lipoharvest underwent enzymatic digestion followed by centrifugation at 2000 rpm for 10 min. The pelleted cell mixture was then washed with sterile buffer solution with the final cell pellet resuspended in culture media and termed Stromal Vascular Fractions. The SVF was plated on to sterile tissue culture flasks for culture purification. After 72 h, non-adherent cells were removed and adhered cells were incubated with standard growth media containing fetal-bovine serum at 37 °C for 7--10 days until 80--90% confluence. Cells were expanded for a total of 4 passages (equivalent of 10--15 doublings). MAG200 was characterised following International Society for Cell and Gene Therapy guidelines, including tri-lineage differentiation and expression of CD105, CD73, and CD90 (≥95% positive) and lack of expression of hematopoietic markers CD45, CD14, CD34, and CD19 (≤2% positive). Cell morphology, count and viability were recorded. In addition, MAG200 underwent sterility, mycoplasma and endotoxin analysis and karyotype stability testing.
+
+
+
+
+MAG200 Cell Count and Viability
+
+  
+    
+      
+      MAG200 10 × 10⁶ cells (N = 8)
+      MAG200 20 × 10⁶ cells (N = 8)
+      MAG200 50 × 10⁶ cells (N = 8)
+      MAG200 100 × 10⁶ cells (N = 8)
+    
+  
+  
+    
+      Cell Count (x 10⁶) (Mean ± SD)
+      10.74 ± 0.30
+      20.38 ± 0.85
+      50.54 ± 1.67
+      105.03 ± 4.44
+    
+    
+      Viability (%) (Mean ± SD)
+      92.55 ± 0.67
+      92.33 ± 0.22
+      91.43 ± 0.58
+      92.93 ± 1.55
+    
+  
+
+
+MAG200 was stored in individual sterile cryovials stored in liquid nitrogen. Each cryovial contained 10 million cells in a volume of 1 mL cryoprotectant media (CryoStor®CS10, Biolife-Solutions, Washington, USA). When required, the appropriate number of cryovials were removed from the liquid nitrogen, thawed at 37 °C in a sterile water bath and centrifuged to remove cryoprotectant media. The resultant pelleted cells were reconstituted with 5 mL of sterile clinical grade injectable isotonic electrolyte solution (Plasma-Lyte 148 IV-Infusion, Baxter Healthcare Pty Ltd, NSW, Australia). Cell count and viability were confirmed using an automated cell counter (MUSE Cell Analyser, Merck, MA, USA). All treatments including placebo (5 mL Plasma-Lyte) were prepared and supplied to the clinical trial site in identical syringes with the syringe barrels covered in black tape to prevent unblinding.
+Intervention
+The area of injection site superficial to the knee joint capsule was first anaesthetised using 2 mL of 2% xylocaine. Intra-articular injection of the investigational product was performed under ultrasound guidance using a 21-gauge needle and via a superolateral patellofemoral approach. Post-treatment, participants were observed for 1 h and provided with a prescription for appropriate analgesia, a compression garment, and an ice pack. Full weight-bearing was allowed. We asked participants to refrain from strenuous weight-bearing exercise/activities for 1 week following treatment.
+Study Outcomes and Participant Assessments
+The primary safety objective was to evaluate the safety of a single dose of MAG200 within the initial post-treatment period (0-3 months) via monitoring of adverse events (Common Terminology Criteria for Adverse Events-Version 5.0), physical examinations, concomitant medication usage and clinical laboratory tests.
+The primary efficacy objective was to evaluate the effect of a single dose of MAG200 on knee pain and function at 12 months. The primary efficacy endpoint was a compound responder analysis as determined by improvement in pain (numeric pain rating scale [NPRS]) and function (Knee Injury Osteoarthritis Outcome Score Function in Daily Living subscale [KOOSₐₘₗ]). A responder was defined as a participant in whom there was a clinically meaningful improvement (minimum clinically important difference [MCID]) in pain with no loss of function or a clinically meaningful improvement in function with no increase in pain. MCID were defined as a ≥2 point reduction (or ≥30% reduction) in NPRS for pain and a change from baseline of ≥8 points on the KOOSₐₘₗ subscale for function. We chose a responder analysis as it provides a clinically relevant composite endpoint which takes pain and function into account, and has been shown to be more sensitive than mean changes in pain scores when assessing drug efficacy in knee OA.
+Secondary efficacy objectives were to determine change from baseline to month 12 in patient reported outcome measures and knee joint structure. NPRS and KOOSₐₘₗ which formed part of the responder analysis were considered key secondary endpoints. PROMs were completed at baseline, months 1, 3, 6, 9 and 12 and included:
+
+Numeric Pain Rating Scale (NPRS): An 11-point scale was used with participants asked to rate their average knee pain over the previous week (0 = no pain, 10 = worst pain). NPRS is a validated primary outcome measure of OA pain intensity.
+Knee Injury and Osteoarthritis Outcome Score (KOOS): KOOS evaluates short and long-term consequences of knee injury and OA and consists of five subscales: pain, symptoms, function in daily living, function in sport and recreation, and knee-related quality of life. Each subscale is comprised of a series of questions assessed using a five-point Likert scale. A score of 0–100 is derived for each subscale (0 = extreme knee problems, 100 = no knee problems).
+Orebro Musculoskeletal Pain Questionnaire Short Form (OMSPG-Short): The OMSPQ-Short was completed at baseline and was used to identify patients at risk of developing chronic pain; it comprises 10 questions each assessed with a score between 0 (no pain/difficulty) to 10. A total score >50 indicates an increased risk of long-term disability.
+Global Perceived Effect (GPE): A seven-point patient GPE scale was used, with participants indicating the overall change in their condition using a seven-point Likert scale ranging from 1 (completely recovered) to 7 (worse than ever).
+We performed structural/disease-modification assessment using quantitative MRI (qMRI). The study knee was imaged in the sagittal plane on a 3-T whole body MRI (Ingenia, Philips Medical Systems, Netherlands) using a commercial transmit-receive extremity coil. Cartilage volume within all compartments was determined, in addition to the medial and lateral tibial plateau area using validated methods. T2-mapping is recognised as a validated non-invasive assessment of cartilage quality, with increased superficial zone T2-values associated with reduced cartilage quality and progression in OA. T2-values >80 ms were excluded as they represent tissue other than cartilage or result from chemical shift artefact. To reduce bias and ensure reproducibility of the MRI measurements, a trained observer, who was blinded to participant characteristics, timing of MRI and group allocation, read each MRI.
+Statistical Analyses
+The sample size for this study was based on clinical and regulatory considerations for first-in-human studies. All participants who underwent randomisation and received study treatment, were included in the safety and efficacy analysis (intention-to-treat analysis).
+Responder analysis was performed using a stratified (by timepoint) Cochrane Mantel Haenszel approach for each treatment dose, providing estimates of the risk difference (active dose - placebo) and relative risk with exact 95% confidence limits and an exact chi-square test to determine whether the responder rate in the active dose group was different from (2-sided test) the placebo group at each timepoint.
+To assess the effect of active treatment compared with placebo on pain and function a mixed model was fitted with change in NPRS or KOOSₛᵤᵦₛₖₐₗₑ as the outcome variable and dose and timepoint (and the dose × timepoint interaction) as factors. In addition, a customised estimate was obtained for the difference between active and placebo for all active doses combined. The effect of treatment on MRI data (cartilage volume, cartilage quality) was analysed using a general linear model with change from baseline as the outcome, dose as a factor and baseline value as a covariate. Estimates of treatment effect (with 95% confidence limits) were obtained for each assessment. The adjusted mean change from baseline was tested within the model for each dose (including placebo).
+As this was an early-stage exploratory ascending dose trial the level of statistical significance was set at p < 0.05. A Bonferroni adjustment for multiple comparisons was not made due to the potential risk of increasing Type II errors and failing to detect real differences.
+Safety data were summarised descriptively.
+All statistical analyses were generated using SAS (Ver25.09.4, SAS Institute Inc, Cary, NC).
+
+Results
+Baseline Characteristics and Study Participants
+A total of 49 participants were screened, of whom 40 met the inclusion criteria and were enrolled, and completed the study as per the protocol. All cohorts had a mean BMI within the 'overweight' range, included both male and female participants and included participants who had undergone previous knee surgery.
+
+
+
+Demographics and Baseline Characteristics
+
+  
+    
+      
+      MAG200 10 × 10⁶ cells (N = 8)
+      MAG200 20 × 10⁶ cells (N = 8)
+      MAG200 50 × 10⁶ cells (N = 8)
+      MAG200 100 × 10⁶ cells (N = 8)
+      Placebo 0 cells (N = 8)
+    
+  
+  
+    
+      Age (Years)
+      57.0 (6.7)
+      45.5 (12.0)
+      49.0 (9.6)
+      47.6 (5.9)
+      39.1 (10.8)
+    
+    
+      Female
+      3 (38%)
+      2 (25%)
+      3 (38%)
+      3 (38%)
+      1 (13%)
+    
+    
+      Male
+      5 (63%)
+      6 (75%)
+      5 (63%)
+      5 (63%)
+      7 (88%)
+    
+    
+      Race
+      
+      
+      
+      
+      
+    
+    
+      Asian
+      1 (13%)
+      1 (13%)
+      
+      
+      
+    
+    
+      Caucasian
+      7 (88%)
+      7 (88%)
+      8 (100%)
+      8 (100%)
+      8 (100%)
+    
+    
+      Weight (kg)
+      78.84 (14.6)
+      87.62 (17.89)
+      80.10 (15.24)
+      85.38 (16.53)
+      81.73 (15.62)
+    
+    
+      Height (cm)
+      172.8 (7.8)
+      180.9 (14.2)
+      173.3 (8.6)
+      175.6 (9.6)
+      170.9 (10.6)
+    
+    
+      BMI (kg/m²)
+      26.30 (3.81)
+      26.76 (4.66)
+      26.47 (3.12)
+      27.59 (4.28)
+      27.81 (3.86)
+    
+    
+      Prior knee surgery
+      8 (100%)
+      6 (75%)
+      5 (63%)
+      6 (75%)
+      5 (63%)
+    
+    
+      KL OA Grade 2
+      3 (38%)
+      5 (63%)
+      4 (50%)
+      3 (38%)
+      6 (75%)
+    
+    
+      KL OA Grade 3
+      5 (63%)
+      3 (38%)
+      4 (50%)
+      5 (63%)
+      2 (25%)
+    
+    
+      NPRS score
+      6.75 (1.04)
+      6.25 (1.04)
+      6.63 (1.31)
+      6.5 (1.20)
+      6.5 (0.53)
+    
+    
+      OMSPQ-Short score
+      54.9 (17.39)
+      46.0 (12.21)
+      43.9 (8.06)
+      47.4 (9.93)
+      42.9 (12.67)
+    
+    
+      Proportion at risk of long-term pain
+      5 (63%)
+      3 (38%)
+      2 (25%)
+      3 (38%)
+      3 (38%)
+    
+  
+
+
+Data presented are mean (SD) or n (%); BMI = Body Mass Index, KL = Kellgren-Lawrence Grade, NPRS = numeric pain rating scale; OMSPQ-Short = short version of Orebro Musculoskeletal Pain Questionnaire, SD = Standard deviation.
+Safety Outcomes
+In the initial 0–3-month post-treatment period, 32 (80%) participants reported 57 treatment emergent adverse events (TEAEs), the majority of which were mild (41, 72%). The most commonly occurring TEAEs were arthralgia, injection-site related swelling and effusion (occurring ≤24 h after injection), injection site pain, and joint swelling and effusion (occurring >24 h after injection). Treatment-related TEAEs were observed only in the MAG200 groups (23, 40%), the majority of which were mild (17, 74%). The most common TEAE was injection site related effusion (8 participants) and swelling (6 participants). A dose-related increase in the proportion of participants reporting treatment-related TEAEs was observed (13% in the lowest dose [MAG200 10 × 10⁶] group and 100% in the highest dose [MAG200 100 × 10⁶] group). There was no observed dose-dependent relationship on severity of TEAEs and there were no treatment-related serious TEAEs.
+
+
+
+Post-Injection Treatment Emergent Adverse Events (TEAEs)
+
+  
+    
+      
+      MAG200 10 × 10⁶ cells (N = 8)
+      MAG200 20 × 10⁶ cells (N = 8)
+      MAG200 50 × 10⁶ cells (N = 8)
+      MAG200 100 × 10⁶ cells (N = 8)
+      Placebo 0 cells (N = 8)
+    
+  
+  
+    
+      Any TEAE
+      7 (88%) [9]
+      6 (75%) [9]
+      6 (75%) [9]
+      8 (100%) [22]
+      5 (63%) [8]
+    
+    
+      Severity:
+      
+      
+      
+      
+      
+    
+    
+      Mild
+      4 (50%) [6]
+      2 (25%) [3]
+      3 (38%) [6]
+      6 (75%) [19]
+      4 (50%) [7]
+    
+    
+      Moderate
+      3 (38%) [3]
+      4 (50%) [6]
+      3 (38%) [3]
+      2 (25%) [3]
+      1 (13%) [1]
+    
+    
+      Severe
+      -
+      -
+      -
+      -
+      -
+    
+    
+      Most common TEAEs:
+      
+      
+      
+      
+      
+    
+    
+      Arthralgia
+      2 (25%) [2]
+      -
+      1 (13%) [2]
+      -
+      1 (13%) [1]
+    
+    
+      Joint effusion
+      -
+      -
+      1 (13%) [1]
+      2 (25%) [2]
+      -
+    
+    
+      Joint swelling
+      1 (13%) [1]
+      2 (25%) [3]
+      -
+      3 (38%) [4]
+      -
+    
+    
+      Injection site joint effusion
+      1 (13%) [1]
+      -
+      3 (38%) [3]
+      4 (50%) [4]
+      -
+    
+    
+      Injection site joint swelling
+      -
+      1 (13%) [1]
+      3 (38%) [3]
+      3 (38%) [3]
+      -
+    
+    
+      Injection site pain
+      4 (50%) [4]
+      -
+      -
+      1 (13%) [1]
+      2 (25%) [2]
+    
+    
+      Blood creatine phosphokinase increased
+      -
+      1 (13%) [1]
+      -
+      2 (25%) [2]
+      -
+    
+    
+      Laboratory test abnormal
+      -
+      1 (13%) [1]
+      -
+      1 (13%) [1]
+      1 (13%) [1]
+    
+    
+      Treatment Related TEAEs:
+      1 (13%) [1]
+      3 (38%) [3]
+      6 (75%) [8]
+      8 (100%) [11]
+      -
+    
+    
+      Arthralgia
+      -
+      -
+      1 (13%) [1]
+      -
+      -
+    
+    
+      Joint effusion
+      -
+      -
+      1 (13%) [1]
+      1 (13%) [1]
+      -
+    
+    
+      Joint swelling
+      -
+      2 (25%) [2]
+      -
+      2 (25%) [2]
+      -
+    
+    
+      Muscle tightness
+      -
+      -
+      -
+      1 (13%) [1]
+      -
+    
+    
+      Injection site joint effusion
+      1 (13%) [1]
+      -
+      3 (38%) [3]
+      4 (50%) [4]
+      -
+    
+    
+      Injection site joint swelling
+      -
+      1 (13%) [1]
+      2 (25%) [2]
+      3 (38%) [3]
+      -
+    
+    
+      Treatment Related TEAEs of moderate severity
+      -
+      2 (25%) [3]
+      3 (38%) [3]
+      1 (13%) [1]
+      -
+    
+  
+
+
+Data presented are: number of participants (%) [number of events]. TEAE = treatment emergent adverse event.
+Efficacy Outcomes
+At month 12, all MAG200 dose cohorts exhibited a greater number of responders than placebo (50% placebo group, 62.5% MAG200 10 × 10⁶, 100% MAG200 20 × 10⁶, 62.5% MAG200 50 × 10⁶, and 75% MAG200 100 × 10⁶). The MAG200 20 × 10⁶ dose group demonstrated a doubling of response rate compared with placebo (relative risk = 2.0).
+A clinically relevant (≥2 point decrease) and statistically significant improvement in pain from baseline at month 12 was observed in all MAG200 cohorts, but not in the placebo group which failed to achieve statistically significant or clinically relevant improvement. A clinically relevant (≥8 point increase) and statistically significant improvement from baseline to month 12 was observed in KOOSₐₘₗ for MAG200 10, 20, and 100 × 10⁶ dose groups and in all other KOOS subscales for all MAG200 cohorts with most subscales indicating clinically relevant improvement as early as 3 months post treatment.
+
+
+
+Adjusted Mean Percent Change by Dose at 12 Months: NPRS and KOOS Subscales
+
+  
+    
+      
+      
+      MAG200 10 × 10⁶ cells (N = 8)
+      MAG200 20 × 10⁶ cells (N = 8)
+      MAG200 50 × 10⁶ cells (N = 8)
+      MAG200 100 × 10⁶ cells (N = 8)
+      Placebo 0 cells (N = 8)
+    
+  
+  
+    
+      NPRS
+      Mean change
+      -3.80
+      -2.62
+      -2.78
+      -3.25
+      -1.55
+    
+    
+      
+      95% CI
+      [-5.29, -2.31]
+      [-3.89, -1.36]
+      [-4.44, -1.13]
+      [-4.86, -1.64]
+      [-3.27, 0.18]
+    
+    
+      
+      P value
+      <0.0001
+      0.0004
+      0.0022
+      0.0006
+      0.0767
+    
+    
+      
+      MCID
+      Yes
+      Yes
+      Yes
+      Yes
+      No
+    
+    
+      KOOS ADL
+      Mean change
+      16.47
+      20.12
+      8.87
+      20.8
+      9.99
+    
+    
+      
+      95% CI
+      [6.44, 26.50]
+      [11.11, 29.12]
+      [-2.42, 20.15]
+      [10.47, 31.14]
+      [2.48, 17.50]
+    
+    
+      
+      P value
+      0.0036
+      0.0001
+      0.1138
+      0.0005
+      0.0135
+    
+    
+      
+      MCID
+      Yes
+      Yes
+      Yes
+      Yes
+      Yes
+    
+    
+      KOOS Sport
+      Mean change
+      24.12
+      31.1
+      16.79
+      34.2
+      16.66
+    
+    
+      
+      95% CI
+      [5.27, 42.98]
+      [18.21, 43.99]
+      [4.43, 29.15]
+      [17.96, 50.45]
+      [0.16, 33.16]
+    
+    
+      
+      P value
+      0.0168
+      <0.0001
+      0.0107
+      0.003
+      0.0482
+    
+    
+      
+      MCID
+      Yes
+      Yes
+      Yes
+      Yes
+      Yes
+    
+    
+      KOOS QoL
+      Mean change
+      28.1
+      20.43
+      12.12
+      35.82
+      11.52
+    
+    
+      
+      95% CI
+      [16.25, 39.96]
+      [7.79, 33.07]
+      [-1.39, 25.64]
+      [23.63, 48.02]
+      [-2.26, 25.30]
+    
+    
+      
+      P value
+      0.0002
+      0.004
+      0.0746
+      <0.0001
+      0.0935
+    
+    
+      
+      MCID
+      Yes
+      Yes
+      Yes
+      Yes
+      Yes
+    
+    
+      KOOS Symptoms
+      Mean change
+      19.36
+      16.03
+      12.12
+      22.47
+      5.15
+    
+    
+      
+      95% CI
+      [10.13, 28.59]
+      [9.85, 22.20]
+      [2.11, 22.12]
+      [11.11, 33.82]
+      [-6.24, 16.55]
+    
+    
+      
+      P value
+      0.0006
+      <0.0001
+      0.0216
+      0.0009
+      0.3441
+    
+    
+      
+      MCID
+      Yes
+      Yes
+      Yes
+      Yes
+      No
+    
+    
+      KOOS Pain
+      Mean change
+      17.4
+      20.11
+      10.75
+      24.63
+      12.23
+    
+    
+      
+      95% CI
+      [5.35, 29.45]
+      [12.17, 28.04]
+      [-0.31, 21.82]
+      [13.89, 35.38]
+      [2.17, 22.29]
+    
+    
+      
+      P value
+      0.0092
+      <0.0001
+      0.0558
+      0.0002
+      0.0206
+    
+    
+      
+      MCID
+      Yes
+      Yes
+      Yes
+      Yes
+      Yes
+    
+  
+
+
+CI = confidence interval; KOOS = Knee Injury and Osteoarthritis Outcome Score, MCID = minimum clinically important difference (Yes/No); NPRS = numeric pain rating scale, ADL = function in daily living, Sport = function in sport and recreation, QoL = knee related quality of life.
+At month 12, MAG200 therapy was associated with a positive treatment effect against placebo with greater pain reduction, irrespective of the dose received. The greatest treatment effect was seen in the MAG200 10 × 10⁶ dose cohort, which was both statistically significant (p = 0.0468) and clinically relevant. Further, estimates of treatment effect showed improvements beyond placebo in all five KOOS subscales for participants in the MAG200 10, 20 and 100 × 10⁶ dose groups with the MAG200 100 × 10⁶ dose group showing clinically relevant improvement against placebo in all subscales.
+Estimates of the treatment effects of MAG200 on pain reduction (NPRS) and functional improvement (KOOSₐₘₗ) at all time points show treatment effect against placebo as early as 3 months with sustained treatment effect out to month 12.
+At month 12, based on GPE, more patients who had received MAG200 treatment reported improvement or complete recovery from symptoms of knee OA compared with placebo (75% vs 37.5%).
+Effect of MAG200 on Joint Structures of the Study Knee
+qMRI assessment indicated progression in OA in the placebo group as measured by mean percentage cartilage volume loss (-0.59 [95%CI:-1.79,0.61]), with observed mean percentage improvement in total knee cartilage volume in MAG200 10 × 10⁶ (0.18 [95%CI:-1.04,1.39]), 20 × 10⁶ (0.32 [95%CI:-0.90,1.54]) and 100 × 10⁶ (0.33 [95%CI:-0.86,1.51]) dose cohorts, though these changes did not reach statistical significance. Assessment of treatment effect indicated most significant change in lateral femoral condyle cartilage volume, which was statistically significant in the MAG200 20 × 10⁶ dose cohort (p = 0.032) and MAG200 at all doses (p = 0.037). Although no results reached statistical significance, the observed treatment effects on cartilage quality, as measured by change in superficial zone T2-mapping values, favoured the MAG200 100 × 10⁶ dose group with improvement in the medial (-0.46 [95%CI:-3.74,2.82]), lateral (-0.07 [95%CI:-2.70,2.57]), patellofemoral compartments (-0.03 [95% CI:-2.92,2.86]) and total knee average (-0.30 [95%CI:-2.44,1.84]) when compared against placebo. These results were in contrast to change in femoral trochlea (1.67 [95%CI:-1.70,5.04] and medial femoral condyle (0.53 [95%CI:-3.76,4.74] T2-values which favoured placebo.
+
+Discussion
+This first-in-human double-blind, randomised controlled trial assessing an allogeneic ADMSC preparation (MAG200), administered as a single IA injection to the knee achieved its primary safety and efficacy outcomes. MAG200 therapy was observed to be well tolerated and safe with the proportion of clinical responders being higher in all active treatment groups than in placebo at 12 months.
+The observed safety of IA MAG200 is consistent with other early-phase trials evaluating allogeneic or autologous ADMSC preparations. Our results suggested a potential dose related trend in treatment-related TEAE incidence, though there was no observed dose relationship in severity of TEAEs.
+Efficacy endpoints were met as assessed by pain and functional improvements and observed treatment effect over placebo at 12 months. All active treatment cohorts exhibited both clinically relevant and statistically significant improvement with 75% of patients receiving MAG200 reporting improvement or complete recovery. The observed response following MAG200 therapy reflects previous early-phase trials using allogeneic ADMSCs and supports the efficacy of allogeneic ADMSCs in the treatment of knee OA.
+Quantitative disease-modification assessment indicated positive treatment effects in favour of MAG200 in assessments of cartilage volume at 12 months, with the most promising results seen in the 20 and 100 × 10⁶ dose groups. qMRI T2-mapping indicated a dose response association in disease-modification with improved total knee cartilage quality against placebo observed in the MAG200 100 × 10⁶ dose group, though improved T2-values against placebo were not observed across all regions. In comparison, outcomes of MRI-assessed structural changes after injection of other allogeneic ADMSCs have been variable.
+A focal interest of MSCs in the management of OA is their potential to delay, defer and/or prevent TKR surgery through sustained pain and functional improvement in addition to disease-modification. Unanswered questions remain as to the optimal cell tissue source, donor type (allogeneic/autologous) and dose. Consistent with past meta-analysis which report larger treatment effect benefits for pain relief and cartilage repair with ADMSC than with bone-marrow derived MSCs (BM-MSCs), MAG200 therapy was associated with greater pain (NPRS) improvement over placebo in direct comparison to studies involving BM-MSCs. This was additionally reflected in pain and functional outcomes as measured by KOOS subscales where the MAG200 100 × 10⁶ dose group exhibited a reproducible treatment effect and improvement from baseline typically greater than that seen with BM-MSCs.
+While 12-month qMRI results from our trial provide a promising signal for potential disease-modification with MAG200, additional analyses may have provided supportive data. Importantly, T2-mapping which has been validated as a non-invasive assessment of cartilage quality remains an experimental endpoint as it has not been validated for assessment of OA progression. Accordingly, future research may benefit from analysis of disease-modification surrogate endpoints including serum, synovial and urinary biomarkers (e.g. COMP, CTX-I/II, C2C) which are less time dependent and serve as suitable supportive measures of disease-modification.
+Despite an ascending dose exploratory protocol, the results were unable to provide clear direction as to the optimal dose of MAG200. Key limitations which may have impacted this were the small sample size and discrepancies in baseline demographic characteristics between cohorts. Lack of clear intergroup differences between active treatment cohorts may however be an indication of the efficacy of MAG200 as a defined allogeneic cell line in the treatment of OA. Whilst variability may be expected due to cohort sample size, the consistent statistically significant and clinically relevant improvement from baseline and observed treatment effect support the efficacy of MAG200 in the treatment of OA.
+There are no current disease-modifying therapies for OA. With the growing incidence of OA and increasing rate of total joint replacement the orthopaedic workforce may be insufficient to meet demand with recent research suggesting a need to increase the number of orthopaedic surgeons by 10% every five years. For an OA therapy to be considered disease-modifying and therefore delay and/or prevent TJR, it should demonstrate both symptomatic (pain, function) and structural benefits. The pain, functional and structural benefits observed with MAG200 suggests that MSC therapy may be an effective disease-modifying treatment that promises to delay or prevent the need for total joint replacement and thus reduce the growing clinical and economic burden of OA.
+
+Conclusion
+OA is a major unmet clinical need and public health burden for which preventative and reparative therapies are urgently needed. Allogeneic MSC-based therapies offer an exciting possibility in the treatment of OA, providing a scalable "off-the-shelf" solution. The results of this Phase I/IIa study indicate that MAG200 has significant promise in the treatment of knee OA and provide sufficient evidence to progress its clinical development to later-stage trials.
+
+Data Availability Statement
+Extra data are available upon reasonable request and with permission of Magellan Biologicals Pty Ltd by emailing drjulienfreitag@magellanstemcells.com.au. There are no plans to disseminate the results to the study participants.
+
+Ethics Statement
+This study involved human participants and was approved by Charles Sturt University Human Research Ethics Committee, Boorooma Street, Wagga Wagga NSW 2678, Australia. Approval Number H18167. All participants provided written informed consent for data collection and publication. Trial registration: ACTRN12617001095358 / ACTRN12621000622808.
+
+Author Contributions
+
+Julien Freitag (JF): Conception and design, financial support, administrative support, provision of study material or participants, collection and/or assembly of data, data analysis and interpretation, manuscript writing and final approval of manuscript.
+Matthew Chamberlain (MC): Conception and design, provision of study material or participants, collection and/or assembly of data, data analysis and interpretation, manuscript writing and final approval of manuscript.
+James Wickham (JW): Conception and design, provision of study material or participants, collection and/or assembly of data, data analysis and interpretation, manuscript writing and final approval of manuscript.
+Kiran Shah (KS): Conception and design, provision of study material or participants, collection and/or assembly of data, data analysis and interpretation and final approval of manuscript.
+Flavia M Cicuttini (FMC): Collection and/or assembly of data, data analysis and interpretation, manuscript writing and final approval of manuscript.
+Yuanyuan Wang (YW): Collection and/or assembly of data, data analysis and interpretation, manuscript writing and final approval of manuscript.
+Ann Solterbeck (AS): Data analysis and interpretation, final approval of manuscript.
+
+Role of the Funding Source
+This study was sponsored by Magellan Biologicals Pty Ltd. Additionally, the sponsor funded professional writing and editorial assistance.
+
+Declaration of Competing Interest
+
+JF is the Chief Medical Officer of Magellan Stem Cells Pty Ltd, holds stocks or options in Magellan Stem Cells Pty Ltd and is the Current Chair of the Magellan Stem Cells Medical and Scientific Advisory Board.
+MC declares no conflicts of interest.
+JW declares no conflicts of interest.
+KS is an employee of Magellan Stem Cells Pty Ltd.
+YW is the recipient of National Health and Medical Research Council of Australia Translating Research into Practice Fellowship (APP1168185).
+AS declares no conflicts of interest.
+FMC is the recipient of Investigator Grant from the National Health and Medical Research Council of Australia and reports receipt of institutional payment from Magellan Stem Cells Pty Ltd for undertaking the MRI measurements.
+
+Acknowledgements
+The authors wish to acknowledge the participants who participated in this research and the members of the Melbourne Stem Cell Centre Research Group and Magellan Stem Cells Group who were involved in the study. Avance Clinical Pty Ltd was the CRO for the conduct of the study, and the authors acknowledge support provided by Bernardone Presnell (Clinical Project Manager), Sandrien Louwaars and Mari VanDerSpuy (Data Management) Barbara Francis (Lead Statistician) and Dr Kate Bush (Lead Medical Writer, Clinical Study Report). Clinical Intelligence Pty Ltd for data acquisition, Robert Traficante of Statistical Revelations for statistical data analysis, Sue Mitchell and Pene Amor from Mitchell Consulting for assistance in protocol documentation and Human Research and Ethics Committee submission, Penelope Field of Bioregulatory Consulting for regulatory and protocol consultation, Prof. Guy Ludbrook for acting as the independent Medical Monitor on the Safety Review Team; Dr Chris Holden, Dr Paul Marks and Bianca Nicklos of Imaging Associates for independent radiology assessment. Hazel Palmer MSc, ISMPP CMPP™ of Scriptix Pty Ltd, for professional writing assistance in the preparation of this manuscript.
+
+References
+
+A. Cui, H. Li, D. Wang, J. Zhong, Y. Chen, H. Lu, Global, regional prevalence, incidence and risk factors of knee osteoarthritis in population-based studies, eClinicalMedicine 29 (2020) 100587.
+J.P.M. Vrouwe, J. Burggraaf, M. Kloppenburg, F.E. Stuurman, Challenges and opportunities of pharmacological interventions for osteoarthritis: a review of current clinical trials and developments, Osteoarthr. Cartil. Open 3 (4) (2021) 100212.
+J.T. Evans, R.W. Walker, J.P. Evans, A.W. Blom, A. Sayers, M.R. Whitehouse, How long does a knee replacement last? A systematic review and meta-analysis of case series and national registry reports with more than 15 years of follow-up, Lancet 393 (10172) (2019) 655-663.
+N. Nashi, C.C. Hong, L. Krishna, Residual knee pain and functional outcome following total knee arthroplasty in osteoarthritic participants, Knee Surg. Sports Traumatol. Arthrosc. 23 (6) (2015) 1841-1847.
+C.M. Kugler, K. Goossen, T. Rombey, K.K. De Santis, T. Mathes, S. Breuing, et al., Hospital volume-outcome relationship in total knee arthroplasty: a systematic review and dose-response meta-analysis, Knee Surg. Sports Traumatol. Arthrosc. (2021).
+H. Singh, D.M. Knapik, E.M. Polce, C.K. Elkani, A.H. Bjornstad, S. Gursoy, et al., Relative efficacy of intra-articular injections in the treatment of knee osteoarthritis: a systematic review and network meta-analysis, Am. J. Sports Med. 50 (11) (2021).
+J. Peck, A. Slovek, P. Miro, N. Vij, B. Traube, C. Lee, et al., A comprehensive review of viscosupplementation in osteoarthritis of the knee, Orthop. Rev. 13 (2) (2021) 25549.
+C. Zeng, N.E. Lane, D.J. Hunter, J. Wei, H.K. Choi, T.E. McAlindon, et al., Intra-articular corticosteroids and the risk of knee osteoarthritis progression: results from the Osteoarthritis Initiative, Osteoarthritis Cartilage 27 (6) (2019) 855-862.
+N. Bellamy, J. Campbell, V. Welch, T.L. Gee, R. Bourne, G.A. Wells, Viscosupplementation for the treatment of osteoarthritis of the knee, Cochrane Database Syst. Rev. (2006).
+T.V. Pereira, P. Juni, P. Saadat, D. Xing, L. Yao, P. Bobos, et al., Viscosupplementation for knee osteoarthritic systematic review and meta-analysis, BMJ 378 (2022) e069722.
+M. Phillips, M. Bhandari, J. Grant, A. Bedi, T. Trojian, A. Johnson, et al., A systematic review of current clinical practice guidelines on intra-articular hyaluronic acid, corticosteroid, and platelet-rich plasma injection for knee osteoarthritis: an international perspective, Orthop J Sports Med 9 (8) (2021).
+W.M. Oo, S.P. Yu, M.S. Daniel, D.J. Hunter, Disease-modifying drugs in osteoarthritis: current understanding and future therapeutics, Expe Opin. Emerg. Drugs 23 (4) (2018) 331-347.
+J. Freitag, D. Bates, R. Boyd, K. Shah, A. Barnard, L. Huguenin, et al., Mesenchymal stem cell therapy in the treatment of osteoarthritis: reparative pathways, safety and efficacy - a review, BMC Muscoskel. Disord. 17 (230) (2016).
+G.B. Kim, O.J. Shon, Current perspectives in stem cell therapies for osteoarthritis of the knee, Yeungnam Univ J Med 37 (3) (2020) 149-158.
+M. Liu, K. Li, Y. Wang, et al., Stem cells in the treatment of neuropathic pain: research progress of mechanism, Stem Cell. Int. 2020 (2020) 8861251.
+B.L. Wise, M.F. Seidel, N.E. Lane, The evolution of nerve growth factor inhibition in clinical medicine, Nat. Rev. Rheumatol. 17 (1) (2021) 34-46.
+A.I. Caplan, D. Correa, The MSC: an injury drugstore, Cell Stem Cell 9 (1) (2011) 11-15.
+H. Nakagami, R. Morishita, K. Maeda, Y. Kikuchi, T. Ogihara, Y. Kaneda, Adipose tissue-derived stromal cells as a novel option for regenerative cell therapy, J. Atherosclerosis Thromb. 13 (2) (2006) 77-81.
+A.I. Caplan, Why are MSCs therapeutic? New data: new insight, J. Pathol. 217 (2) (2009) 318-324.
+J. Freitag, J. Wickham, K. Shah, D. Li, C. Norsworthy, A. Tenen, Mesenchymal stem cell therapy combined with arthroscopic abrasion arthroplasty regenerates cartilage in participants with severe knee osteoarthritis: a case series, Regen. Med. 15 (8) (2020) 1957-1977.
+T.G. Wiggers, M. Winters, N.A. Van den Boom, H.J. Haisma, M.H. Moen, Autologous stem cell therapy in knee osteoarthritis: a systematic review of randomised controlled trials, Br. J. Sports Med. 55 (20) (2021) 1161-1169.
+H. Qu, S. Sun, Efficacy of mesenchymal stromal cells for the treatment of knee osteoarthritis: a meta-analysis of randomized controlled trials, J. Orthop. Surg. Res. 16 (11) (2021).
+J. Gong, J. Fairley, F.M. Cicuttini, S.M. Hussain, R. Vashishtha, L. Chou, et al., Effect of stem cell injections on osteoarthritis-related structural outcomes: a systematic review, J. Rheumatol. 48 (4) (2021) 585-597.
+H. Evenbratt, L. Andreasson, V. Bicknell, M. Brittberg, R. Mobini, S. Simonsson, Insights into the present and future of cartilage regeneration and joint repair, Cell Regen. 11 (3) (2022).
+P.S. Couto, A. Bersenev, Q.A. Rafiq, Process development and manufacturing approaches for mesenchymal stem cell therapies, Engineering Strategies for Regenerative Medicine (2020) 33-71.
+K. Shah, N. Shah, F. Ghassemi, C. Ly, T. George, C. Lutz, et al., Alloreactivity of allogeneic mesenchymal stem/stromal cells and other cellular therapies: a consice review, Stem Cell. Int. (2022) 9589600.
+J.A. Askcum, J.F. Ong, J.M. Karp, Mesenchymal stem cells: immune evasive, not immune privileged, Nat. Biotechnol. 32 (3) (2014) 252-260.
+M.M. Lalu, L. McIntyre, C. Pugliese, et al., Safety of cell therapy with mesenchymal stromal cells (SafeCell): a systematic review and meta-analysis of clinical trials, PLoS One 7 (10) (2012) e47559.
+J. Freitag, D. Bates, J. Wickham, K. Shah, L. Huguenin, A. Tenen, et al., Adipose-derived mesenchymal stem cell therapy in the treatment of knee osteoarthritis: a randomized controlled trial, Regen. Med. 14 (3) (2019) 213-230.
+J. Freitag, J. Wickham, K. Shah, A. Tenen, Real-world evidence of mesenchymal stem cell therapy in knee osteoarthritis: a large prospective two-year case series, Regen. Med. 17 (6) (2022).
+T.G.A. Australia, Therapeutic goods (standards for biologicals—general and specific requirements) (TGO 109) order 2021, in: Health Products Regulation Group DoH, 2021. Canberra: Available from: https://www.legislation.gov.au/Details/F20211.01332.
+T.G. Administration (Ed.), Therapeutic Goods Order No. 88 Standards for Donor Selection, Testing, and Minimising Infectious Disease Transmission via Therapeutic Goods that Are Human Blood and Blood Components, Human Tissues and Human Cellular Therapy Products, Australian Government: Department of Health, Canberra, 2013.
+Directive 2004/23/EC of the European Parliament and of the Council of 31 March 2004 on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells, Off. J. Eur. Union 102 (2004).
+Commission Directive 2006/17/EC of 8 February 2006 Implementing Directive 2004/23/EC of the European Parliament and of the Council as Regards Certain Technical Requirements for the Donation, Procurement and Testing of Human Tissues and Cells (Text with EEA Relevance), 2006, pp. 40-52.
+T.G.A. Australia, Therapeutic goods (standard for human cell and tissue products—donor screening requirements) (TGO 108) order 2021, in: Health Products Regulation Group DoH, 2021. Canberra: Available from: https://www.legislation.gov.au/Details/F20211.01326.
+M. Dominici, K. Le Blanc, I. Mueller, I. Slaper-Cortenbach, F. Marini, D. Krause, et al., Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement, Cytotherapy 8 (4) (2006) 315–317.
+J.M. Lamo-Espinosa, G. Mora, J.F. Blanco, F. Granero-Molti, J.M. Nuñez-Córdoba, C. Sánchez-Echenique, et al., Intra-articular injection of two different doses of autologous bone marrow mesenchymal stem cells versus hyaluronic acid in the treatment of knee osteoarthritis: multicenter randomized controlled clinical trial (phase I/II), J. Transl. Med. 14 (2016) 1–9.
+F. Salaffi, A. Stancati, C.A. Silvestri, A. Ciapetti, W. Grassi, Minimal clinically important changes in chronic musculoskeletal pain intensity measured on a numerical rating scale, Eur. J. Pain 8 (4) (2004) 283–291.
+S. Lyman, Y.Y. Lee, A.S. McLawhorn, S. Alexander, W. Islam, C.H. MacLean, What are the minimal and substantial improvements in the HOOS and KOOS and JR versions after total joint replacement? Clin. Orthop. Relat. Res. 476 (12) (2018) 2432–2441.
+T. Pham, D. Van Der Heijde, M. Lassere, R.D. Altman, J.J. Anderson, N. Bellamy, et al., Outcome variables for osteoarthritis clinical trials: the OMERACT-OARSI set of responder criteria, J. Rheumatol. 30 (7) (2003) 1648–1654.
+R.A. Moore, O.A. Moore, S. Derry, H. McQuay, Numbers needed to treat calculated from responder rates give a better indication of efficacy in osteoarthritis trials than mean pain scores, Arthritis Res. Ther. 10 (2008) R39.
+P. Ornetti, M. Dougados, S. Paternostte, I. Logeart, L. Gossec, Validation of a numerical rating scale to assess functional impairment in hip and knee osteoarthritis: comparison with the WOMAC function scale, Ann. Rheum. Dis. 70 (5) (2011) 740–746.
+E.M. Roos, S. Toksvig-Larsen, Knee injury and Osteoarthritis Outcome Score (KOOS) - validation and comparison to the WOMAC in total knee replacement, Health Qual. Life Outcome 1 (2003) 17.
+F.M. Cicuttini, A.E. Wluka, A. Forbes, R. Wolfe, Comparison of tibial cartilage volume and radiologic grade of the tibiofemoral joint, Arthritis Rheum. 48 (3) (2003) 682–688.
+J.W. MacKay, S.B.L. Low, T.O. Smith, et al., Systematic review and meta-analysis of the reliability and discriminative validity of cartilage compositional MRI in knee osteoarthritis, Osteoarthritis Cartilage 26 (9) (2018) 1140–1152.
+H. Liebl, G. Joseph, M.C. Nevitt, N. Singh, U. Heilmeier, K. Subburaj, et al., Early T2 changes predict onset of radiographic knee osteoarthritis: data from the osteoarthritis initiative, Ann. Rheum. Dis. 74 (7) (2015) 1353–1359.
+G.E. Gold, E. Han, J. Stainsby, G. Wright, J. Brittain, C. Beaulieu, Musculoskeletal MRI at 3.0 T: relaxation times and image contrast, AJR Am. J. Roentgenol. 183 (2) (2004) 343–351.
+Y. Kaneko, T. Nozaki, H. Yu, A. Chang, K. Kaneshiro, R. Schwarzkopf, et al., Normal T2 map profile of the entire femoral cartilage using an angle/layer-dependent approach, J. Magn. Reson. Imag. 42 (6) (2015) 1507–1516.
+J. Shen, B. Swift, R. Mamelok, S. Pine, J. Sinclair, M. Attar, Design and conduct considerations for first-in-human trials, Clinical and Translational Science 12 (1) (2019) 6–19.
+D. Kuah, S. Sivell, T. Longworth, K. James, A. Guermazi, F. Cicuttini, et al., Safety, tolerability and efficacy of intra-articular Progenza in knee osteoarthritis: a randomized double-blind placebo-controlled single ascending dose study, J. Transl. Med. 16 (1) (2018) 49.
+L. Lu, C. Dai, H. Du, S. Li, P. Ye, L. Zhang, et al., Intra-articular injections of allogeneic human adipose-derived mesenchymal progenitor cells in participants with symptomatic bilateral knee osteoarthritis: a Phase I pilot study, Regen. Med. 15 (5) (2020) 1625–1636.
+C.-F. Chen, C.-C. Hu, C.-T. Wu, H. Wu, C.-S. Chang, Y.-P. Hung, et al., Treatment of knee osteoarthritis with intra-articular injection of allogeneic adipose-derived stem cells (ADSCs) ELISCYTE®: a phase I/II, randomized, active-control, single-blind, multiple-center clinical trial, Stem Cell Res. Ther. 12 (1) (2021) 562.
+L. Lu, C. Dai, Z. Zhang, H. Du, S. Li, P. Ye, et al., Treatment of knee osteoarthritis with intra-articular injection of autologous adipose-derived mesenchymal progenitor cells: a prospective, randomized, double-blind, active-controlled, phase IIb clinical trial, Stem Cell Res. Ther. 10 (1) (2019) 143.
+W.S. Lee, H.J. Kim, K.I. Kim, G.B. Kim, W. Jin, Intra-articular injection of autologous adipose tissue-derived mesenchymal stem cells for the treatment of knee osteoarthritis: a phase IIb, randomized, placebo-controlled clinical trial, Stem Cells Transl Med 8 (6) (2019) 504–511.
+C.M. Peeters, M.J. Leijs, M. Reijman, G.J.V.M. van Osch, P.K. Bos, Safety of intra-articular cell-therapy with culture-expanded stem cells in humans: a systematic literature review, Osteoarthritis Cartilage 21 (10) (2013) 1465–1473.
+C.H. Jo, Y.G. Lee, W.H. Shin, H. Kim, J.W. Chai, E.C. Jeong, et al., Intra-articular injection of mesenchymal stem cells for the treatment of osteoarthritis of the knee: a proof-of-concept clinical trial, Stem Cell. 32 (5) (2014) 1254–1266.
+Y. Song, C. Jorgensen, Mesenchymal stromal cells in osteoarthritis: evidence for structural benefit and cartilage repair, Biomedicines 10 (6) (2022) 1278.
+M. Jeyaraman, S. Muthu, P.A. Ganie, Does the source of mesenchymal stem cell have an effect in the management of osteoarthritis of the knee? Meta-analysis of randomized controlled trials, Cartilage 13 (1_suppl) (2021) 1532s–1547s.
+R. Bastos, M. Mathias, R. Andrade, R.J.F.C. Amaral, V. Schott, A. Balduino, et al., Intra-articular injection of culture-expanded mesenchymal stem cells with or without addition of platelet-rich plasma is effective in decreasing pain and symptoms in knee osteoarthritis: a controlled, double-blind clinical trial, Knee Surg. Sports Traumatol. Arthrosc. 28 (6) (2020) 1989–1999.
+V.B. Kraus, M.A. Karsdal, Osteoarthritis: current molecular biomarkers and the way forward, Calcif. Tissue Int. 109 (3) (2021) 329–338.
+P.J. Rullán, M.E. Deren, G. Zhou, A.K. Emara, A.K. Klika, N.K. Schiltz, et al., The arthroplasty surgeon growth indicator: a tool for monitoring supply and demand trends in the orthopaedic surgeon workforce from 2020 to 2050, J. Bone Jt. Surg. Am. Vol. 105 (13) (2023) 1038–1045.
+W.M. Oo, C. Little, V. Duong, D.J. Hunter, et al., The development of disease-modifying therapies for osteoarthritis (DMOADx): the evidence to date, Drug Des. Dev. Ther. 15 (2021) 2921–2945.
+
+
