@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+
+# Ignore service account keys (JSON files)
+*.json
+
+# Ignore other common files (optional)
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore system files (Mac, Windows)
+.DS_Store
+Thumbs.db
